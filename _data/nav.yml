@@ -1,4 +1,4 @@
-- heading: Duties
+- heading: General
   links:
   - title: Home
     url: /
@@ -6,11 +6,11 @@
   - title: Jobs
     url: /general/jobs
 
-
 - heading: Duties
   links:
   - title: Dungeons
     url: /duties/dungeons
+    subcategories:
 
   - title: Trials
     url: /duties/trials
