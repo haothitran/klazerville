@@ -384,7 +384,7 @@ td img {
 
 .back-to-top-link {
   display: block;
-  padding: calc(var(--spacing-unit) / 4);
+  padding: calc(var(--spacing-unit) / 8);
   border-radius: 34px;
   background-color: #42424283;
 }
