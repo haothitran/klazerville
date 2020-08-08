@@ -1,0 +1,19 @@
+- heading: Duties
+  links:
+  - title: Home
+    url: /
+
+  - title: Jobs
+    url: /general/jobs
+
+
+- heading: Duties
+  links:
+  - title: Dungeons
+    url: /duties/dungeons
+
+  - title: Trials
+    url: /duties/trials
+
+  - title: Raids
+    url: /duties/raids
