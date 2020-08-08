@@ -54,9 +54,8 @@ form {
 
   --color-accent: #9488f0;
   --color-links: #306ed3;
-  --color-hover: #00aeff;
+  --color-hover: #f779c6;
 
-  --color-site-title-background: #7f84d1;
   --color-site-title-font: #fff;
 
   --color-nav-background: #f5f7f9;
@@ -74,12 +73,11 @@ form {
   --color-border: #343434;
   --color-primary-background: #1a1a1a;
 
-  --color-accent: #34b17b;
-  --color-links: #8dc4f7;
-  --color-hover: #f389ca;
+  --color-accent: #9af032;
+  --color-links: #6edfff;
+  --color-hover: #ffcc00;
 
-  --color-site-title-background: #42c78d;
-  --color-site-title-font: #fff;
+  --color-site-title-font: #4e4e4e;
 
   --color-nav-background: #242424;
   --color-nav-hover: #353535;
@@ -263,11 +261,11 @@ td img {
   font-size: 1.5em;
   font-weight: 500;
   color: var(--color-site-title-font);
-  background-color: var(--color-site-title-background);
+  background-color: var(--color-accent);
 }
 .site-title:hover {
   color: var(--color-site-title-font);
-  background-color: var(--color-accent);
+  background-color: var(--color-hover);
 }
 
 .site-banner {
