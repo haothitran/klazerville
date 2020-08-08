@@ -92,7 +92,10 @@ form {
 -- // BASE
 ------------------------------------------------------------------------------*/
 
-html { height: 100%; }
+html {
+  height: 100%;
+  scroll-behavior: smooth;
+}
 
 body {
   width: 100%;
@@ -365,6 +368,33 @@ td img {
   color: var(--color-footer-font);
 }
 .site-footer a:hover { color: var(--color-footer-font); }
+
+
+/*------------------------------------------------------------------------------
+-- // BACK TO TOP
+------------------------------------------------------------------------------*/
+
+.back-to-top-wrapper {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  margin-right: calc(var(--spacing-unit) / 2);
+  margin-bottom: calc(var(--spacing-unit) / 2);
+}
+
+.back-to-top-link {
+  display: block;
+  padding: calc(var(--spacing-unit) / 4);
+  border-radius: 34px;
+  background-color: #42424283;
+}
+.back-to-top-link:hover {
+  background-color: var(--color-accent);
+}
+.back-to-top-link img {
+  margin: 0;
+  padding: 0;
+}
 
 /*------------------------------------------------------------------------------
 -- // SWITCH DARK/LIGHT THEME
