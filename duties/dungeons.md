@@ -14,7 +14,7 @@ permalink: /duties/dungeons
 ## A Realm Reborn
 
 | Dungeons                                                                                           | Level |
-|:---------------------------------------------------------------------------------------------------|:------|
+|----------------------------------------------------------------------------------------------------|-------|
 | [Sastasha](/duties/dungeons/a-realm-reborn/sastasha)                                               | 15    |
 | [The Tam-Tara Deepcroft](/duties/dungeons/a-realm-reborn/the-tam-tara-deepcroft)                   | 16    |
 | [Copperbell Mines](/duties/dungeons/a-realm-reborn/copperbell-mines)                               | 17    |
@@ -50,7 +50,7 @@ permalink: /duties/dungeons
 ## Heavensward
 
 | Dungeons                                                                                                    | Level |
-|:------------------------------------------------------------------------------------------------------------|:------|
+|-------------------------------------------------------------------------------------------------------------|-------|
 | [The Dusk Vigil](/duties/dungeons/heavensward/the-dusk-vigil)                                               | 51    |
 | [Sohm Al](/duties/dungeons/heavensward/sohm-al)                                                             | 53    |
 | [The Aery](/duties/dungeons/heavensward/the-aery)                                                           | 55    |
@@ -73,7 +73,7 @@ permalink: /duties/dungeons
 ## Stormblood
 
 | Dungeons                                                                                        | Level |
-|:------------------------------------------------------------------------------------------------|:------|
+|-------------------------------------------------------------------------------------------------|-------|
 | [The Sirensong Sea](/duties/dungeons/stormblood/the-sirensong-sea)                              | 61    |
 | [Shisui of the Violet Tides](/duties/dungeons/stormblood/shisui-of-the-violet-tides)            | 63    |
 | [Bardam's Mettle](/duties/dungeons/stormblood/bardams-mettle)                                   | 65    |
@@ -93,7 +93,7 @@ permalink: /duties/dungeons
 ## Shadowbringers
 
 | Dungeon                                                                | Level |
-|:-----------------------------------------------------------------------|:------|
+|------------------------------------------------------------------------|-------|
 | [Holminster Switch](/duties/dungeons/shadowbringers/holminster-switch) | 71    |
 | [Dohn Mheg](/duties/dungeons/shadowbringers/dohn-mheg)                 | 73    |
 | [The Qitana Ravel](/duties/dungeons/shadowbringers/the-qitana-ravel)   | 75    |
