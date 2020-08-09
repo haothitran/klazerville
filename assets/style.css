@@ -180,6 +180,7 @@ li img {
 ------------------------------------------------------------------------------*/
 
 blockquote {
+  margin-bottom: var(--spacing-unit);
   padding-top: calc(var(--spacing-unit) / 8);
   padding-bottom: calc(var(--spacing-unit) / 8);
   padding-left: calc(var(--spacing-unit) / 2);
