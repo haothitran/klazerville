@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: dungeon
 title: Castrum Meridianum
 permalink: /duties/dungeons/a-realm-reborn/castrum-meridianum
 ---

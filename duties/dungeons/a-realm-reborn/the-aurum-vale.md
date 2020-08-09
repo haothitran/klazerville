@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: dungeon
 title: The Aurum Vale
 permalink: /duties/dungeons/a-realm-reborn/the-aurum-vale
 ---

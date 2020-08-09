@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: dungeon
 title: The Swallow's Compass
 permalink: /duties/dungeons/stormblood/the-swallows-compass
 ---

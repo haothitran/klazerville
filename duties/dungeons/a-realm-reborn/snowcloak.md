@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: dungeon
 title: Snowcloak
 permalink: /duties/dungeons/a-realm-reborn/snowcloak
 ---

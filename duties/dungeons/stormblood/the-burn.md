@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: dungeon
 title: The Burn
 permalink: /duties/dungeons/stormblood/the-burn
 ---

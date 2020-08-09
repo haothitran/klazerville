@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: dungeon
 title: Haukke Manor
 permalink: /duties/dungeons/a-realm-reborn/haukke-manor
 ---

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: dungeon
 title: Akadaemia Anyder
 permalink: /duties/dungeons/shadowbringers/akadaemia-anyder
 ---

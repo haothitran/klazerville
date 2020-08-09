@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: dungeon
 title: Cutter's Cry
 permalink: /duties/dungeons/a-realm-reborn/cutters-cry
 ---

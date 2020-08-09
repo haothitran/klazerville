@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: dungeon
 title: The Sirensong Sea
 permalink: /duties/dungeons/stormblood/the-sirensong-sea
 ---

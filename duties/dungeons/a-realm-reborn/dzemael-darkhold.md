@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: dungeon
 title: Dzemael Darkhold
 permalink: /duties/dungeons/a-realm-reborn/dzemael-darkhold
 ---

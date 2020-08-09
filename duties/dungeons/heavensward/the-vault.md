@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: dungeon
 title: The Vault
 permalink: /duties/dungeons/heavensward/the-vault
 ---

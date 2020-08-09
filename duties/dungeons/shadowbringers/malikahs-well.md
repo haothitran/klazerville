@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: dungeon
 title: Malikah's Well
 permalink: /duties/dungeons/shadowbringers/malikahs-well
 ---

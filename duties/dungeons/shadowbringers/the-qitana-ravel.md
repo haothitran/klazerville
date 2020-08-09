@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: dungeon
 title: The Qitana Ravel
 permalink: /duties/dungeons/shadowbringers/the-qitana-ravel
 ---

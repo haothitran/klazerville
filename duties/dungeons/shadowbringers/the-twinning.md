@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: dungeon
 title: The Twinning
 permalink: /duties/dungeons/shadowbringers/the-twinning
 ---

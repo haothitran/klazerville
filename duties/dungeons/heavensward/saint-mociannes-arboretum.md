@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: dungeon
 title: Saint Mocianne's Arboretum
 permalink: /duties/dungeons/heavensward/saint-mociannes-arboretum
 ---

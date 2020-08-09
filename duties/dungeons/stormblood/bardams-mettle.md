@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: dungeon
 title: Bardam's Mettle
 permalink: /duties/dungeons/stormblood/bardams-mettle
 ---

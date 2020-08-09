@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: dungeon
 title: Doma Castle
 permalink: /duties/dungeons/stormblood/doma-castle
 ---

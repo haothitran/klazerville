@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: dungeon
 title: The Ghimlyt Dark
 permalink: /duties/dungeons/stormblood/the-ghimlyt-dark
 ---

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: dungeon
 title: The Aetherochemical Research Facility
 permalink: /duties/dungeons/heavensward/the-aetherochemical-research-facility
 ---

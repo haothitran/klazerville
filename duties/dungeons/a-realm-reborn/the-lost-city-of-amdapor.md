@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: dungeon
 title: The Lost City of Amdapor
 permalink: /duties/dungeons/a-realm-reborn/the-lost-city-of-amdapor
 ---

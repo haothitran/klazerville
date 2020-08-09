@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: dungeon
 title: Hells' Lid
 permalink: /duties/dungeons/stormblood/hells-lid
 ---

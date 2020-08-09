@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: dungeon
 title: The Stone Vigil (Hard)
 permalink: /duties/dungeons/a-realm-reborn/the-stone-vigil-hard
 ---

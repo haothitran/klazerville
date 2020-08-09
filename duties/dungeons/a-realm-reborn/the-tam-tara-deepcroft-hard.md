@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: dungeon
 title: The Tam-Tara Deepcroft (Hard)
 permalink: /duties/dungeons/a-realm-reborn/the-tam-tara-deepcroft-hard
 ---

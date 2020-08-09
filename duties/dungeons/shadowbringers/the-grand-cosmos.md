@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: dungeon
 title: The Grand Cosmos
 permalink: /duties/dungeons/shadowbringers/the-grand-cosmos
 ---

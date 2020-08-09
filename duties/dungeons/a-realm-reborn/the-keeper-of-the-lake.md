@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: dungeon
 title: The Keeper of the Lake
 permalink: /duties/dungeons/a-realm-reborn/the-keeper-of-the-lake
 ---

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: dungeon
 title: Saint Mocianne's Arboretum (Hard)
 permalink: /duties/dungeons/stormblood/saint-mociannes-arboretum-hard
 ---

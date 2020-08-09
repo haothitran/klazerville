@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: dungeon
 title: Neverreap
 permalink: /duties/dungeons/heavensward/neverreap
 ---

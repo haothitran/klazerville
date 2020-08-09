@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: dungeon
 title: the-fractal-continuum
 permalink: /duties/dungeons/heavensward/the-fractal-continuum
 ---

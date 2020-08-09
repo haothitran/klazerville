@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: dungeon
 title: The Great Gubal Library
 permalink: /duties/dungeons/heavensward/the-great-gubal-library
 ---

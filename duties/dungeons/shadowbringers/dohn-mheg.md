@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: dungeon
 title: Dohn Mheg
 permalink: /duties/dungeons/shadowbringers/dohn-mheg
 ---

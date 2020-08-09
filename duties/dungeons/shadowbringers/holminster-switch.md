@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: dungeon
 title: Holminster Switch
 permalink: /duties/dungeons/shadowbringers/holminster-switch
 ---

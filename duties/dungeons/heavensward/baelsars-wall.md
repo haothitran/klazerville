@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: dungeon
 title: Baelsar's Wall
 permalink: /duties/dungeons/heavensward/baelsars-wall
 ---

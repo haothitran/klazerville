@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: dungeon
 title: Pharos Sirius (Hard)
 permalink: /duties/dungeons/heavensward/pharos-sirius-hard
 ---

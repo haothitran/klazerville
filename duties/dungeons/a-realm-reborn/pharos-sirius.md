@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: dungeon
 title: Pharos Sirius
 permalink: /duties/dungeons/a-realm-reborn/pharos-sirius
 ---

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: dungeon
 title: The Wanderer's Palace (Hard)
 permalink: /duties/dungeons/a-realm-reborn/the-wanderers-palace-hard
 ---

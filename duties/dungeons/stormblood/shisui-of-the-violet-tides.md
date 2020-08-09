@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: dungeon
 title: Shisui of the Violet Tides
 permalink: /duties/dungeons/stormblood/shisui-of-the-violet-tides
 ---

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: dungeon
 title: Castrum Abania
 permalink: /duties/dungeons/stormblood/castrum-abania
 ---

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: dungeon
 title: Amaurot
 permalink: /duties/dungeons/shadowbringers/amaurot
 ---

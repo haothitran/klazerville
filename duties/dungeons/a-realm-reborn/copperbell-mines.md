@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: dungeon
 title: Copperbell Mines
 permalink: /duties/dungeons/a-realm-reborn/copperbell-mines
 ---

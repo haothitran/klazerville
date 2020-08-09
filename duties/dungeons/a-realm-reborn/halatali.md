@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: dungeon
 title: Halatali
 permalink: /duties/dungeons/a-realm-reborn/halatali
 ---

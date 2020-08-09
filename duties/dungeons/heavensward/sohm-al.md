@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: dungeon
 title: Sohm Al
 permalink: /duties/dungeons/heavensward/sohm-al
 ---

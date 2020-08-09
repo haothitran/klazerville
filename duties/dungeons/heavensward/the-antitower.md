@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: dungeon
 title: The Antitower
 permalink: /duties/dungeons/heavensward/the-antitower
 ---

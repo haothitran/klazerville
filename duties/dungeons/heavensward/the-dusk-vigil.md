@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: dungeon
 title: The Dusk Vigil
 permalink: /duties/dungeons/heavensward/the-dusk-vigil
 ---

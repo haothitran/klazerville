@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: dungeon
 title: The Drowned City of Skalla
 permalink: /duties/dungeons/stormblood/the-drowned-city-of-skalla
 ---

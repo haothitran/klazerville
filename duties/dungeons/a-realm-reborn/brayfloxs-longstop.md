@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: dungeon
 title: Brayflox's Longstop
 permalink: /duties/dungeons/a-realm-reborn/brayfloxs-longstop
 ---

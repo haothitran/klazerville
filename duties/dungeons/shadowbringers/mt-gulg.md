@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: dungeon
 title: Mt. Gulg
 permalink: /duties/dungeons/shadowbringers/mt-gulg
 ---

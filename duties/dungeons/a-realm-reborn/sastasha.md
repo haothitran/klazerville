@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: dungeon
 title: Sastasha
 permalink: /duties/dungeons/a-realm-reborn/sastasha
 ---

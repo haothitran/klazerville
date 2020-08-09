@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: dungeon
 title: Xelphatol
 permalink: /duties/dungeons/heavensward/xelphatol
 ---

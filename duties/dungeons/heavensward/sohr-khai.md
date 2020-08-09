@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: dungeon
 title: Sohr Khai
 permalink: /duties/dungeons/heavensward/sohr-khai
 ---

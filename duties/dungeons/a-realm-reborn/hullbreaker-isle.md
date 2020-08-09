@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: dungeon
 title: Hullbreaker Isle
 permalink: /duties/dungeons/a-realm-reborn/hullbreaker-isle
 ---

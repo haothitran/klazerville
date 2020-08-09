@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: dungeon
 title: The Lost City of Amdapor (Hard)
 permalink: /duties/dungeons/heavensward/the-lost-city-of-amdapor-hard
 ---

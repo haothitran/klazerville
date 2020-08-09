@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: dungeon
 title: Amdapor Keep
 permalink: /duties/dungeons/a-realm-reborn/amdapor-keep
 ---

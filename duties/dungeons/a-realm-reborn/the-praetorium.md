@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: dungeon
 title: The Praetorium
 permalink: /duties/dungeons/a-realm-reborn/the-praetorium
 ---

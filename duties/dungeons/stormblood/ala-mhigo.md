@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: dungeon
 title: Ala Mhigo
 permalink: /duties/dungeons/stormblood/ala-mhigo
 ---

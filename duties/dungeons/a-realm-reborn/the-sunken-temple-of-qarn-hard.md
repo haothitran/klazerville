@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: dungeon
 title: The Sunken Temple of Qarn (Hard)
 permalink: /duties/dungeons/a-realm-reborn/the-sunken-temple-of-qarn-hard
 ---

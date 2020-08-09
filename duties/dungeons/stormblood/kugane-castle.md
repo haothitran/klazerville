@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: dungeon
 title: Kugane Castle
 permalink: /duties/dungeons/stormblood/kugane-castle
 ---

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: dungeon
 title: The Fractal Continuum (Hard)
 permalink: /duties/dungeons/stormblood/the-fractal-continuum-hard
 ---

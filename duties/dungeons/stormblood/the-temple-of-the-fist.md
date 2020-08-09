@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: dungeon
 title: The Temple of the Fist
 permalink: /duties/dungeons/stormblood/the-temple-of-the-fist
 ---

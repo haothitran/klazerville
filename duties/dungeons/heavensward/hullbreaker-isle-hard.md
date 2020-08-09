@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: dungeon
 title: Hullbreaker Isle (Hard)
 permalink: /duties/dungeons/heavensward/hullbreaker-isle-hard
 ---
