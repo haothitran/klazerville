@@ -367,6 +367,35 @@ td img {
 }
 .site-footer a:hover { color: var(--color-footer-font); }
 
+/*------------------------------------------------------------------------------
+-- // LIST DUTIES
+------------------------------------------------------------------------------*/
+
+.list-duties {
+  display: grid;
+  grid-template-columns: auto auto;
+  row-gap: calc(var(--spacing-unit) / 2);
+  font-size: .875em;
+  line-height: 1.25;
+}
+
+.list-duties-expansion {
+  font-weight: 500;
+  padding-right: calc(var(--spacing-unit) / 2);
+}
+
+.list-duties-links {
+  padding-left: calc(var(--spacing-unit) / 2);
+  border-left: 1px solid var(--color-border);
+}
+.list-duties-links ul {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+}
+.list-duties-links li { display: inline; }
+.list-duties-links li:after { content: ' •'; }
+.list-duties-links li:last-child:after { content: ''; }
 
 /*------------------------------------------------------------------------------
 -- // BACK TO TOP

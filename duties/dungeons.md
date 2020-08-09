@@ -11,6 +11,10 @@ permalink: /duties/dungeons
 - [Stormblood](#stormblood)
 - [Shadowbringers](#shadowbringers)
 
+## Short List of All Dungeons
+
+{% include list-dungeons.html %}
+
 ## A Realm Reborn
 
 | Dungeons                                                                                           | Level |

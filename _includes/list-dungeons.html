@@ -1,0 +1,19 @@
+<div class="list-duties">
+  {% for nav in site.data.dungeons %}
+    <div class="list-duties-expansion">{{ nav.expansion }}</div>
+
+    <div class="list-duties-links">
+      <ul>
+        {% for entry in nav.links %}
+          {% if entry.hard != null %}
+            <li>
+              <a href="{{ entry.url }}">{{ entry.name }}</a> (<a href="{{ entry.hard }}">Hard</a>)
+            </li>
+          {% else %}
+            <li><a href="{{ entry.url }}">{{ entry.name }}</a></li>
+          {% endif %}
+        {% endfor %}
+      </ul>
+    </div>
+  {% endfor %}
+</div>
