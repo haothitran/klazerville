@@ -9,8 +9,11 @@ Just trying to be as great as Manderville.
 
 This site is a continuous work in progress.
 
-## Tools
+## Features
 
-- Coded using [Visual Studio Code](https://code.visualstudio.com/) editor
-- Built on [Jekyll](https://jekyllrb.com/) static site generator
-- Hosted on [GitHub Pages](https://pages.github.com/) for push-to-deployment
+- [x] Dungeon pages
+- [ ] Trial pages
+- [ ] Raid pages
+- [ ] Terminology
+- [ ] Relic weapons
+- ... and more. [Have a suggestion?](https://github.com/haothitran/klazerville/issues)
