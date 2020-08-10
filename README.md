@@ -16,4 +16,4 @@ This site is a continuous work in progress.
 - [ ] Raid pages
 - [ ] Terminology
 - [ ] Relic weapons
-- ... and more. [Have a suggestion?](https://github.com/haothitran/klazerville/issues)
+- [ ] ... and more. [Have a suggestion?](https://github.com/haothitran/klazerville/issues)
