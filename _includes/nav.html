@@ -1,8 +1,10 @@
-<nav class="site-nav">
+<nav class="site-nav" id="site-nav">
 
   {% for category in site.data.nav %}
 
     <div class="site-nav-heading">{{ category.heading }}</div>
+
+    <div class="nav-close" onclick="closeNav()"><a href="javascript:void(0)">&times;</a></div>
 
     <ul>
       {% for entry in category.links %}

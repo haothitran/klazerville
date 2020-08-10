@@ -13,6 +13,10 @@
 
       {% include nav.html %}
 
+      <div class="site-nav-button-wrapper">
+        <span class="site-nav-button" onclick="openNav()">&#9776;</span>
+      </div>
+
       <main class="content">
 
         {{ content }}
@@ -36,6 +40,7 @@
       </label>
     </div>
 
+    <script src="{{ "/assets/mobile-nav.js" | relative_url }}"></script>
     <script src="{{ "/assets/theme.js" | relative_url }}"></script>
 
   </body>
