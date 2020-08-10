@@ -30,11 +30,9 @@ At the start, hug left wall to avoid most of the trash to first boss.
 
 ### Coincounter
 
-Attacks are not telegraphed. Observe boss animations to determine next mechanic.
-
 - ![](/assets/icons/role-tank.png) Frontal cleave
-- **100-tonze Swipe** (raised weapon) — dodge frontal cone AoE
-- **100-tonze Swing** (two hands on weapon) — point blank AoE on boss
+- **100-tonze Swipe** — dodge frontal cone AoE
+- **100-tonze Swing** — point blank AoE on boss
 - **Glower** — dodge frontal column AoE at random player
 - **Eye of the Beholder** — collapse into melee range for large 270-degree frontal cleave
 
