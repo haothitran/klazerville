@@ -2,7 +2,7 @@
 layout: page
 title: Dungeons
 permalink: /duties/dungeons
-date: 2020-08-08
+date: 2020-08-11
 ---
 
 # Dungeons
@@ -97,15 +97,16 @@ date: 2020-08-08
 
 ## Shadowbringers
 
-| Dungeon                                                                | Level |
-|------------------------------------------------------------------------|-------|
-| [Holminster Switch](/duties/dungeons/shadowbringers/holminster-switch) | 71    |
-| [Dohn Mheg](/duties/dungeons/shadowbringers/dohn-mheg)                 | 73    |
-| [The Qitana Ravel](/duties/dungeons/shadowbringers/the-qitana-ravel)   | 75    |
-| [Malikah's Well](/duties/dungeons/shadowbringers/malikahs-well)        | 77    |
-| [Mt. Gulg](/duties/dungeons/shadowbringers/mt-gulg)                    | 79    |
-| [Amaurot](/duties/dungeons/shadowbringers/amaurot)                     | 80    |
-| [The Twinning](/duties/dungeons/shadowbringers/the-twinning)           | 80    |
-| [Akadaemia Anyder](/duties/dungeons/shadowbringers/akadaemia-anyder)   | 80    |
-| [The Grand Cosmos](/duties/dungeons/shadowbringers/the-grand-cosmos)   | 80    |
-| [Anamnesis Anyder](/duties/dungeons/shadowbringers/anamnesis-anyder)   | 80    |
+| Dungeon                                                                     | Level |
+|-----------------------------------------------------------------------------|-------|
+| [Holminster Switch](/duties/dungeons/shadowbringers/holminster-switch)      | 71    |
+| [Dohn Mheg](/duties/dungeons/shadowbringers/dohn-mheg)                      | 73    |
+| [The Qitana Ravel](/duties/dungeons/shadowbringers/the-qitana-ravel)        | 75    |
+| [Malikah's Well](/duties/dungeons/shadowbringers/malikahs-well)             | 77    |
+| [Mt. Gulg](/duties/dungeons/shadowbringers/mt-gulg)                         | 79    |
+| [Amaurot](/duties/dungeons/shadowbringers/amaurot)                          | 80    |
+| [The Twinning](/duties/dungeons/shadowbringers/the-twinning)                | 80    |
+| [Akadaemia Anyder](/duties/dungeons/shadowbringers/akadaemia-anyder)        | 80    |
+| [The Grand Cosmos](/duties/dungeons/shadowbringers/the-grand-cosmos)        | 80    |
+| [Anamnesis Anyder](/duties/dungeons/shadowbringers/anamnesis-anyder)        | 80    |
+| [The Heroes' Gauntlet](/duties/dungeons/shadowbringers/the-heroes-gauntlet) | 80    |
