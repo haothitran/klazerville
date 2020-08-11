@@ -2,6 +2,7 @@
 layout: page
 title: Dungeons
 permalink: /duties/dungeons
+date: 2020-08-08
 ---
 
 # Dungeons
