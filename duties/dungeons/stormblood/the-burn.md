@@ -2,6 +2,7 @@
 layout: dungeon
 title: The Burn
 permalink: /duties/dungeons/stormblood/the-burn
+date: 2020-08-07
 ---
 
 # The Burn

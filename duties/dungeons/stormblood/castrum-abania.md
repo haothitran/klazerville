@@ -2,6 +2,7 @@
 layout: dungeon
 title: Castrum Abania
 permalink: /duties/dungeons/stormblood/castrum-abania
+date: 2020-08-07
 ---
 
 # Castrum Abania

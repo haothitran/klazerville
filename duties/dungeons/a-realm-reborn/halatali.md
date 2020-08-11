@@ -2,6 +2,7 @@
 layout: dungeon
 title: Halatali
 permalink: /duties/dungeons/a-realm-reborn/halatali
+date: 2020-08-07
 ---
 
 # Halatali

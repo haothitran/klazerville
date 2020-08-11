@@ -2,6 +2,7 @@
 layout: dungeon
 title: Copperbell Mines
 permalink: /duties/dungeons/a-realm-reborn/copperbell-mines
+date: 2020-08-07
 ---
 
 # Copperbell Mines

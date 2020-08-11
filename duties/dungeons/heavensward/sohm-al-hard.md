@@ -2,6 +2,7 @@
 layout: dungeon
 title: Sohm Al (Hard)
 permalink: /duties/dungeons/heavensward/sohm-al-hard
+date: 2020-08-07
 ---
 
 # Sohm Al (Hard)

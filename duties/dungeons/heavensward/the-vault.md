@@ -2,6 +2,7 @@
 layout: dungeon
 title: The Vault
 permalink: /duties/dungeons/heavensward/the-vault
+date: 2020-08-07
 ---
 
 # The Vault

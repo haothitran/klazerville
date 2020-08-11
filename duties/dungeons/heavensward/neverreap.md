@@ -2,6 +2,7 @@
 layout: dungeon
 title: Neverreap
 permalink: /duties/dungeons/heavensward/neverreap
+date: 2020-08-07
 ---
 
 # Neverreap

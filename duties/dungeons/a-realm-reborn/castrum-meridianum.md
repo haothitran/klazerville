@@ -2,6 +2,7 @@
 layout: dungeon
 title: Castrum Meridianum
 permalink: /duties/dungeons/a-realm-reborn/castrum-meridianum
+date: 2020-08-07
 ---
 
 # Castrum Meridianum

@@ -2,6 +2,7 @@
 layout: dungeon
 title: The Lost City of Amdapor (Hard)
 permalink: /duties/dungeons/heavensward/the-lost-city-of-amdapor-hard
+date: 2020-08-07
 ---
 
 # The Lost City of Amdapor (Hard)

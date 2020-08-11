@@ -2,6 +2,7 @@
 layout: dungeon
 title: The Aery
 permalink: /duties/dungeons/heavensward/the-aery
+date: 2020-08-07
 ---
 
 # The Aery

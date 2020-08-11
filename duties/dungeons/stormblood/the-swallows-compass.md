@@ -2,6 +2,7 @@
 layout: dungeon
 title: The Swallow's Compass
 permalink: /duties/dungeons/stormblood/the-swallows-compass
+date: 2020-08-07
 ---
 
 # The Swallow's Compass

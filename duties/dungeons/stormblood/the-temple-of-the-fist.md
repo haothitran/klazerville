@@ -2,6 +2,7 @@
 layout: dungeon
 title: The Temple of the Fist
 permalink: /duties/dungeons/stormblood/the-temple-of-the-fist
+date: 2020-08-07
 ---
 
 # The Temple of the Fist

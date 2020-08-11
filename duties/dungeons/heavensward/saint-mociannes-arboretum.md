@@ -2,6 +2,7 @@
 layout: dungeon
 title: Saint Mocianne's Arboretum
 permalink: /duties/dungeons/heavensward/saint-mociannes-arboretum
+date: 2020-08-07
 ---
 
 # Saint Mocianne's Arboretum

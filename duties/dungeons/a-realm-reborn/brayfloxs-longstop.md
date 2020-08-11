@@ -2,6 +2,7 @@
 layout: dungeon
 title: Brayflox's Longstop
 permalink: /duties/dungeons/a-realm-reborn/brayfloxs-longstop
+date: 2020-08-07
 ---
 
 # Brayflox's Longstop

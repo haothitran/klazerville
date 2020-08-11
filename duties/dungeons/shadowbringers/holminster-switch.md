@@ -2,6 +2,7 @@
 layout: dungeon
 title: Holminster Switch
 permalink: /duties/dungeons/shadowbringers/holminster-switch
+date: 2020-08-07
 ---
 
 # Holminster Switch

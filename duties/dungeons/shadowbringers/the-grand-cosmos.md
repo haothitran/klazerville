@@ -2,6 +2,7 @@
 layout: dungeon
 title: The Grand Cosmos
 permalink: /duties/dungeons/shadowbringers/the-grand-cosmos
+date: 2020-08-07
 ---
 
 # The Grand Cosmos

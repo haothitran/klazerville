@@ -2,6 +2,7 @@
 layout: dungeon
 title: the-fractal-continuum
 permalink: /duties/dungeons/heavensward/the-fractal-continuum
+date: 2020-08-07
 ---
 
 # The Fractal Continuum

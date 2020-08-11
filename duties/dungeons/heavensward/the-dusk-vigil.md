@@ -2,6 +2,7 @@
 layout: dungeon
 title: The Dusk Vigil
 permalink: /duties/dungeons/heavensward/the-dusk-vigil
+date: 2020-08-07
 ---
 
 # The Dusk Vigil

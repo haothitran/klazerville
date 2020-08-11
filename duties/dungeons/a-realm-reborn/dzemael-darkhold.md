@@ -2,6 +2,7 @@
 layout: dungeon
 title: Dzemael Darkhold
 permalink: /duties/dungeons/a-realm-reborn/dzemael-darkhold
+date: 2020-08-07
 ---
 
 # Dzemael Darkhold

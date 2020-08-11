@@ -2,6 +2,7 @@
 layout: dungeon
 title: The Praetorium
 permalink: /duties/dungeons/a-realm-reborn/the-praetorium
+date: 2020-08-07
 ---
 
 # The Praetorium

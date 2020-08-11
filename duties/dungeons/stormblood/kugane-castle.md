@@ -2,6 +2,7 @@
 layout: dungeon
 title: Kugane Castle
 permalink: /duties/dungeons/stormblood/kugane-castle
+date: 2020-08-07
 ---
 
 # Kugane Castle

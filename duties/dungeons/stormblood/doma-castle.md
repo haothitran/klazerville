@@ -2,6 +2,7 @@
 layout: dungeon
 title: Doma Castle
 permalink: /duties/dungeons/stormblood/doma-castle
+date: 2020-08-07
 ---
 
 # Doma Castle

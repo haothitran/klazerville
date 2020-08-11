@@ -2,6 +2,7 @@
 layout: dungeon
 title: Baelsar's Wall
 permalink: /duties/dungeons/heavensward/baelsars-wall
+date: 2020-08-07
 ---
 
 # Baelsar's Wall

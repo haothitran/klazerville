@@ -2,6 +2,7 @@
 layout: dungeon
 title: The Aetherochemical Research Facility
 permalink: /duties/dungeons/heavensward/the-aetherochemical-research-facility
+date: 2020-08-07
 ---
 
 # The Aetherochemical Research Facility

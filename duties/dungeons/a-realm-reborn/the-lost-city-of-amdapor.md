@@ -2,6 +2,7 @@
 layout: dungeon
 title: The Lost City of Amdapor
 permalink: /duties/dungeons/a-realm-reborn/the-lost-city-of-amdapor
+date: 2020-08-07
 ---
 
 # The Lost City of Amdapor

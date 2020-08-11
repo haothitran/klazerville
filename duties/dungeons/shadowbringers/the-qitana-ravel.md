@@ -2,6 +2,7 @@
 layout: dungeon
 title: The Qitana Ravel
 permalink: /duties/dungeons/shadowbringers/the-qitana-ravel
+date: 2020-08-07
 ---
 
 # The Qitana Ravel

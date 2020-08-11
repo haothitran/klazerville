@@ -2,6 +2,7 @@
 layout: dungeon
 title: Xelphatol
 permalink: /duties/dungeons/heavensward/xelphatol
+date: 2020-08-07
 ---
 
 # Xelphatol

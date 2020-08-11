@@ -2,6 +2,7 @@
 layout: dungeon
 title: Pharos Sirius (Hard)
 permalink: /duties/dungeons/heavensward/pharos-sirius-hard
+date: 2020-08-07
 ---
 
 # Pharos Sirius (Hard)

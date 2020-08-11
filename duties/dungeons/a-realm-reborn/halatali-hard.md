@@ -2,6 +2,7 @@
 layout: dungeon
 title: Halatali (Hard)
 permalink: /duties/dungeons/a-realm-reborn/halatali-hard
+date: 2020-08-07
 ---
 
 # Halatali (Hard)

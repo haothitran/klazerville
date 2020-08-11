@@ -2,6 +2,7 @@
 layout: dungeon
 title: Snowcloak
 permalink: /duties/dungeons/a-realm-reborn/snowcloak
+date: 2020-08-07
 ---
 
 # Snowcloak

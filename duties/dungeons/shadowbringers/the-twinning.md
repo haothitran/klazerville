@@ -2,6 +2,7 @@
 layout: dungeon
 title: The Twinning
 permalink: /duties/dungeons/shadowbringers/the-twinning
+date: 2020-08-07
 ---
 
 # The Twinning

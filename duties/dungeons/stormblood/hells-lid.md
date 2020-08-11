@@ -2,6 +2,7 @@
 layout: dungeon
 title: Hells' Lid
 permalink: /duties/dungeons/stormblood/hells-lid
+date: 2020-08-07
 ---
 
 # Hells' Lid

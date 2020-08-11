@@ -2,6 +2,7 @@
 layout: dungeon
 title: Brayflox's Longstop (Hard)
 permalink: /duties/dungeons/a-realm-reborn/brayfloxs-longstop-hard
+date: 2020-08-07
 ---
 
 # Brayflox's Longstop (Hard)

@@ -2,6 +2,7 @@
 layout: dungeon
 title: Malikah's Well
 permalink: /duties/dungeons/shadowbringers/malikahs-well
+date: 2020-08-07
 ---
 
 # Malikah's Well

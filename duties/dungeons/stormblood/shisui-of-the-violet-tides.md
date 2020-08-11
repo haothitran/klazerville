@@ -2,6 +2,7 @@
 layout: dungeon
 title: Shisui of the Violet Tides
 permalink: /duties/dungeons/stormblood/shisui-of-the-violet-tides
+date: 2020-08-07
 ---
 
 # Shisui of the Violet Tides

@@ -2,6 +2,7 @@
 layout: dungeon
 title: The Fractal Continuum (Hard)
 permalink: /duties/dungeons/stormblood/the-fractal-continuum-hard
+date: 2020-08-07
 ---
 
 # The Fractal Continuum (Hard)

@@ -2,6 +2,7 @@
 layout: dungeon
 title: Saint Mocianne's Arboretum (Hard)
 permalink: /duties/dungeons/stormblood/saint-mociannes-arboretum-hard
+date: 2020-08-07
 ---
 
 # Saint Mocianne's Arboretum (Hard)

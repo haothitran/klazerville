@@ -2,6 +2,7 @@
 layout: dungeon
 title: The Ghimlyt Dark
 permalink: /duties/dungeons/stormblood/the-ghimlyt-dark
+date: 2020-08-07
 ---
 
 # The Ghimlyt Dark

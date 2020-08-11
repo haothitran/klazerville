@@ -2,6 +2,7 @@
 layout: dungeon
 title: The Sunken Temple of Qarn
 permalink: /duties/dungeons/a-realm-reborn/the-sunken-temple-of-qarn
+date: 2020-08-07
 ---
 
 # The Sunken Temple of Qarn

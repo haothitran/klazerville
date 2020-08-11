@@ -2,6 +2,7 @@
 layout: dungeon
 title: Sohr Khai
 permalink: /duties/dungeons/heavensward/sohr-khai
+date: 2020-08-07
 ---
 
 # Sohr Khai

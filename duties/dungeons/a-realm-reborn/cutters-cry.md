@@ -2,6 +2,7 @@
 layout: dungeon
 title: Cutter's Cry
 permalink: /duties/dungeons/a-realm-reborn/cutters-cry
+date: 2020-08-07
 ---
 
 # Cutter's Cry

@@ -2,6 +2,7 @@
 layout: dungeon
 title: The Sirensong Sea
 permalink: /duties/dungeons/stormblood/the-sirensong-sea
+date: 2020-08-07
 ---
 
 # The Sirensong Sea

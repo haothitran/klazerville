@@ -2,6 +2,7 @@
 layout: dungeon
 title: Pharos Sirius
 permalink: /duties/dungeons/a-realm-reborn/pharos-sirius
+date: 2020-08-07
 ---
 
 # Pharos Sirius

@@ -2,6 +2,7 @@
 layout: dungeon
 title: Mt. Gulg
 permalink: /duties/dungeons/shadowbringers/mt-gulg
+date: 2020-08-07
 ---
 
 # Mt. Gulg

@@ -2,6 +2,7 @@
 layout: dungeon
 title: Hullbreaker Isle
 permalink: /duties/dungeons/a-realm-reborn/hullbreaker-isle
+date: 2020-08-07
 ---
 
 # Hullbreaker Isle

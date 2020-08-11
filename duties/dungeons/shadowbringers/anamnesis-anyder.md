@@ -2,6 +2,7 @@
 layout: dungeon
 title: Anamnesis Anyder
 permalink: /duties/dungeons/shadowbringers/anamnesis-anyder
+date: 2020-08-07
 ---
 
 # Anamnesis Anyder

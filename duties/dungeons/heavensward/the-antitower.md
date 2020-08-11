@@ -2,6 +2,7 @@
 layout: dungeon
 title: The Antitower
 permalink: /duties/dungeons/heavensward/the-antitower
+date: 2020-08-07
 ---
 
 # The Antitower

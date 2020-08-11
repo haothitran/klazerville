@@ -2,6 +2,7 @@
 layout: dungeon
 title: The Tam-Tara Deepcroft
 permalink: /duties/dungeons/a-realm-reborn/the-tam-tara-deepcroft
+date: 2020-08-07
 ---
 
 # The Tam-Tara Deepcroft

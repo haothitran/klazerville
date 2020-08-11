@@ -2,6 +2,7 @@
 layout: dungeon
 title: The Stone Vigil
 permalink: /duties/dungeons/a-realm-reborn/the-stone-vigil
+date: 2020-08-07
 ---
 
 # The Stone Vigil

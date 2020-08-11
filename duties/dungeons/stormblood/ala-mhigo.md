@@ -2,6 +2,7 @@
 layout: dungeon
 title: Ala Mhigo
 permalink: /duties/dungeons/stormblood/ala-mhigo
+date: 2020-08-07
 ---
 
 # Ala Mhigo

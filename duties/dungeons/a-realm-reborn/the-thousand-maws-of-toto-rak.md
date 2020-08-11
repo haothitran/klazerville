@@ -2,6 +2,7 @@
 layout: dungeon
 title: The Thousand Maws of Toto-Rak
 permalink: /duties/dungeons/a-realm-reborn/the-thousand-maws-of-toto-rak
+date: 2020-08-07
 ---
 
 # The Thousand Maws of Toto-Rak

@@ -2,6 +2,7 @@
 layout: dungeon
 title: Bardam's Mettle
 permalink: /duties/dungeons/stormblood/bardams-mettle
+date: 2020-08-07
 ---
 
 # Bardam's Mettle

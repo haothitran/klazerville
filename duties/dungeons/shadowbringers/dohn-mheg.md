@@ -2,6 +2,7 @@
 layout: dungeon
 title: Dohn Mheg
 permalink: /duties/dungeons/shadowbringers/dohn-mheg
+date: 2020-08-07
 ---
 
 # Dohn Mheg

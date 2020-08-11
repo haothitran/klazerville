@@ -2,6 +2,7 @@
 layout: dungeon
 title: The Great Gubal Library (Hard)
 permalink: /duties/dungeons/heavensward/the-great-gubal-library-hard
+date: 2020-08-07
 ---
 
 # The Great Gubal Library (Hard)

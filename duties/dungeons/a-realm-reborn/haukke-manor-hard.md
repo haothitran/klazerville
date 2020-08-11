@@ -2,6 +2,7 @@
 layout: dungeon
 title: Haukke Manor (Hard)
 permalink: /duties/dungeons/a-realm-reborn/haukke-manor-hard
+date: 2020-08-07
 ---
 
 # Haukke Manor (Hard)

@@ -2,6 +2,7 @@
 layout: dungeon
 title: The Drowned City of Skalla
 permalink: /duties/dungeons/stormblood/the-drowned-city-of-skalla
+date: 2020-08-07
 ---
 
 # The Drowned City of Skalla

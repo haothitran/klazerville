@@ -2,6 +2,7 @@
 layout: dungeon
 title: Akadaemia Anyder
 permalink: /duties/dungeons/shadowbringers/akadaemia-anyder
+date: 2020-08-07
 ---
 
 # Akadaemia Anyder

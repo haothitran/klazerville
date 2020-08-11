@@ -2,6 +2,7 @@
 layout: dungeon
 title: Amaurot
 permalink: /duties/dungeons/shadowbringers/amaurot
+date: 2020-08-07
 ---
 
 # Amaurot

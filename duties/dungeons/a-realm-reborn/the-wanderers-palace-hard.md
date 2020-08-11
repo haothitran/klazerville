@@ -2,6 +2,7 @@
 layout: dungeon
 title: The Wanderer's Palace (Hard)
 permalink: /duties/dungeons/a-realm-reborn/the-wanderers-palace-hard
+date: 2020-08-07
 ---
 
 # The Wanderer's Palace (Hard)

@@ -2,6 +2,7 @@
 layout: dungeon
 title: The Stone Vigil (Hard)
 permalink: /duties/dungeons/a-realm-reborn/the-stone-vigil-hard
+date: 2020-08-07
 ---
 
 # The Stone Vigil (Hard)

@@ -2,6 +2,7 @@
 layout: dungeon
 title: Sastasha (Hard)
 permalink: /duties/dungeons/a-realm-reborn/sastasha-hard
+date: 2020-08-07
 ---
 
 # Sastasha (Hard)

@@ -2,6 +2,7 @@
 layout: dungeon
 title: The Aurum Vale
 permalink: /duties/dungeons/a-realm-reborn/the-aurum-vale
+date: 2020-08-10
 ---
 
 # The Aurum Vale

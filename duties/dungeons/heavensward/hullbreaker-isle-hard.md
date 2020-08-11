@@ -2,6 +2,7 @@
 layout: dungeon
 title: Hullbreaker Isle (Hard)
 permalink: /duties/dungeons/heavensward/hullbreaker-isle-hard
+date: 2020-08-07
 ---
 
 # Hullbreaker Isle (Hard)

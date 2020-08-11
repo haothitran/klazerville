@@ -2,6 +2,7 @@
 layout: dungeon
 title: The Wanderer's Palace
 permalink: /duties/dungeons/a-realm-reborn/the-wanderers-palace
+date: 2020-08-07
 ---
 
 # The Wanderer's Palace
