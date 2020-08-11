@@ -47,4 +47,3 @@ Attacks are not telegraphed. Observe boss animations to determine next mechanic.
 - **The Educator** — do not stand on glowing floor tiles
 - Avoid tiles with mines
 - ![](/assets/icons/role-healer.png) **Aetherochemical Explosive** — use Esuna to remove debuff from party member
-

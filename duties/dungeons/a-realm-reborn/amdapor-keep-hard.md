@@ -38,4 +38,3 @@ date: 2020-08-07
 - ![](/assets/icons/role-dps.png) **Suppuration** — destroy to free trapped party member before they are cleaved
 - Dodge column AoEs
 - Avoid spinning blue scythes
-

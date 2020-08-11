@@ -23,24 +23,23 @@ date: 2020-08-07
 
 ### Karlabos
 
-* Stay spread to avoid unnecessary debuffs
-* ![](/assets/icons/role-tank.png) **Prey** — tethered player will be stunned after a short time
-  * Pass tether to a DPS by running into them which will stun them instead
-* ![](/assets/icons/role-healer.png) Use Esuna to remove Slime debuff from party members
-* ![](/assets/icons/role-healer.png) **Tail Screw** — brings targeted player to 1 HP (stunnable)
-  * If targeted player has Slime debuff, they will most likely die
+- Stay spread to avoid unnecessary debuffs
+- ![](/assets/icons/role-tank.png) **Prey** — tethered player will be stunned after a short time
+  - Pass tether to a DPS by running into them which will stun them instead
+- ![](/assets/icons/role-healer.png) Use Esuna to remove Slime debuff from party members
+- ![](/assets/icons/role-healer.png) **Tail Screw** — brings targeted player to 1 HP (stunnable)
+  - If targeted player has Slime debuff, they will most likely die
 
 ### Captain Madison
 
-* ![](/assets/icons/role-tank.png) Frontal cleave
-* ![](/assets/icons/role-healer.png) **In the Line of Fire** — focused attack on a player
-  * ![](/assets/icons/role-dps.png) Attack boss to break focus fire on party member
-* ![](/assets/icons/role-dps.png) Kill adds — Slaves (stuns players) > Leech (heals boss) > Guarda/Boy
+- ![](/assets/icons/role-tank.png) Frontal cleave
+- ![](/assets/icons/role-healer.png) **In the Line of Fire** — focused attack on a player
+  - ![](/assets/icons/role-dps.png) Attack boss to break focus fire on party member
+- ![](/assets/icons/role-dps.png) Kill adds — Slaves (stuns players) > Leech (heals boss) > Guarda/Boy
 
 ### Kraken
 
-* ![](/assets/icons/role-dps.png) Kill Arms
-  * Ignore Arms with Determination buff
+- ![](/assets/icons/role-dps.png) Kill Arms
+  - Ignore Arms with Determination buff
   - Ignore Tentacles
-* Avoid ink puddles
-
+- Avoid ink puddles

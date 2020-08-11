@@ -42,4 +42,3 @@ date: 2020-08-07
 - **Freefall** — charges at random player, do not be near piles of rocks
 - **Whirling Gaol** — platform AoE from center, use rocks to LoS behind
 - ![](/assets/icons/role-healer.png) **Winds of Winter** — party damage, use rocks to LoS behind
-

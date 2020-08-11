@@ -48,4 +48,3 @@ Do not attack boss during Cold Fog cast. Avoid AoEs. Break frozen party members 
   - ![](/assets/icons/role-dps.png) Kill adds before circular AoE covers entire platform
 - **Deep Fog** — dodge column AoEs across platform
 - **Touchdown** — move away from proximity AoE to avoid excess damage
-

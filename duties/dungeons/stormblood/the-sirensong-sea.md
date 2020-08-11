@@ -46,4 +46,3 @@ date: 2020-08-10
   - Tears = backwards
 - ![](/assets/icons/role-healer.png) **Somber Melody** — party damage
 - **Void Water III** — dodge circular AoE on random player
-

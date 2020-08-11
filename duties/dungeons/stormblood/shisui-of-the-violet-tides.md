@@ -41,4 +41,3 @@ date: 2020-08-07
 - Destroy Churn orbs while avoiding water ripples
 - Kill shark adds
 - **Mad Stare** — look away from boss to avoid Hysteria debuff
-

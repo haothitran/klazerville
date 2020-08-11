@@ -53,4 +53,3 @@ Look out for emote for when boss' eyes changes colour for phase changes.
   - **Fireball** — dodge circular AoE on random player
   - **Heat Breath** — dodge frontal cone AoE
   - **Tail Smash** — dodge rear cone AoE
-

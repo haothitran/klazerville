@@ -46,4 +46,3 @@ date: 2020-08-07
 - ![](/assets/icons/role-dps.png) Destroy Blizzard and Fire Spheres
 - **Universal Manipulation** — jump into your own purple portal to avoid numerous debuffs
 - Run into other players' orbs to pop them, but not your own to avoid debuffs
-

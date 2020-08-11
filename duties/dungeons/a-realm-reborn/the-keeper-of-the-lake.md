@@ -41,4 +41,3 @@ date: 2020-08-07
 - Kill add, drops Magitek Field Generator
 - **Animadversion** — interact with Magitek Field Generator to create shield barrier
 - **Antipathy** — targeted player drop growing circular AoE far away from party
-

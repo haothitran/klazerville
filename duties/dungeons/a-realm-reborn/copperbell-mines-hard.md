@@ -40,6 +40,3 @@ date: 2020-08-07
   - Interact with **Crystalized Rock** to carry it onto sand area to distract submerged worm
   - ![](/assets/icons/role-healer.png) **Bottomless Desert** — party damage if rock is not placed for worm
 - Kill adds
-
-
-

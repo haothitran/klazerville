@@ -40,4 +40,3 @@ Stand in blue Magitek terminals for a short time to unlock next door. Some termi
 - ![](/assets/icons/role-dps.png) Destroy tethered crystals to boss
 - **Desolation** — dodge frontal column AoE at random player
 - Avoid purple puddles
-

@@ -39,4 +39,3 @@ date: 2020-08-07
 - **Imminent Catastrophe** — arena AoE, use statues to LoS from falling red meteor
 - Kill add — dodge circular AoE on random player
 - **Plague Dance** — tethered player run away to drop pulsing orb
-

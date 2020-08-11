@@ -58,4 +58,3 @@ Don't get slapped. Stand on bubbling grates to prevent add spawn.
   - If hand is in front of grate, add will be killed by hand slam
 - **Flying Fount** — stack on marked player to split damage
 - **Command Current** — dodge cone AoEs from boss
-

@@ -49,4 +49,3 @@ Some attacks are not telegraphed. Observe boss animations to determine next mech
 - ![](/assets/icons/role-healer.png) **Demi Ultima** — party damage
 - **Allagen Flare** — move away from tank
 - ![](/assets/icons/role-dps.png) **Enrage** — kill boss before he kills you
-

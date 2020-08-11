@@ -36,4 +36,3 @@ Pick up keys to open doors.
 
 - Interact with bubbling grates in corners of arena to prevent an add from spawning
 - **Hydroball** — dodge frontal cone AoE
-

@@ -43,6 +43,3 @@ Attacks are not telegraphed. Observe boss animations to determine next mechanic.
 - ![](/assets/icons/role-dps.png) Kill adds before they drop fire puddles
 - **Realm Shaker** — point blank AoE on boss
 - **Flying Press** — charges player, drops growing fire puddle
-
-
-

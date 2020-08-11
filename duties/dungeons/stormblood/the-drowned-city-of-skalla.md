@@ -47,4 +47,3 @@ Attacks are not telegraphed. Observe boss animations to determine next mechanic.
 - Crouching — point blank cleave
 - **Eyes of Fire** — look away from boss
 - Marked players do not move to allow party members to get into safe zones
-

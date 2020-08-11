@@ -44,4 +44,3 @@ date: 2020-08-07
 - **Icicles** — dodge various AoEs
 - **Lunar Cry** — arena AoE, use icicle to LoS behind
 - ![](/assets/icons/role-healer.png) **Thousand-year Storm** — party damage
-

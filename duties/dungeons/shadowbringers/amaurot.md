@@ -46,4 +46,3 @@ date: 2020-08-07
 - **Deathly Ray** — dodge multiple column AoEs from boss or heads on sides of platform
   - No indicator for where first blast will hit
   - ![](/assets/icons/role-healer.png) Keep party healthy to survive first blast hit
-

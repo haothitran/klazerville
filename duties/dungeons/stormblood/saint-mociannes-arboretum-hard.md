@@ -52,4 +52,3 @@ Stand on circle plates for safety. Push add out of boss' AoEs.
   - ![](/assets/icons/role-healer.png) Eventually will explode for damage based on size
 - **Feculent Flood** — frontal cone AoE at Mud Slime, push add out of the way
 - **Bog Bequest** — collapse into melee range for ring AoE around outer platform
-

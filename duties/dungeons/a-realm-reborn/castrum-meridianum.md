@@ -46,4 +46,3 @@ date: 2020-08-07
 - Dodge circular AoE on random player
 - Kill adds fixated on random player, fixated player bring adds to boss for AoE
 - Dodge frontal column AoE
-

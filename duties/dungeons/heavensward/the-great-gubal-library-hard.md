@@ -44,4 +44,3 @@ date: 2020-08-07
 - **On Imps** — step into green circle to turn back to normal
 - ![](/assets/icons/role-healer.png) **On Darkness II** — party damage
 - **Behemoth** — use rocks to LoS meteor
-

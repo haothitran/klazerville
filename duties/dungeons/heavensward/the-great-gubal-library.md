@@ -39,4 +39,3 @@ date: 2020-08-07
   - Number of lights indicates how many simultaneous players are needed on the plate
 - **Deep Darkness** — collapse into inner platform for ring AoE around outer platform
 - **Magic Burst** — circular AoE on inner platform
-

@@ -44,4 +44,3 @@ date: 2020-08-07
 - **Light of Anathema** — dodge column AoE at random player (not telegraphed)
 - **Flurry of Rage** — frontal cleave at random player
 - Perodically fixates on random player, applies Curse of the Mummy debuff (stunnable)
-

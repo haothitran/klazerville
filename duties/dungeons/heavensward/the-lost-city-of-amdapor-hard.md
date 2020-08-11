@@ -45,4 +45,3 @@ After defeating first boss, fight trash mobs in spotlights for increased damaga 
 - **Glory** — dodge frontal cone AoE
 - Move away from proximity AoE to avoid excess damage
 - Kill add
-

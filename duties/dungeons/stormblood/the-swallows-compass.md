@@ -51,4 +51,3 @@ Note boss emotes to determine next boss mechanic.
   - Kill both at same time to avoid another clone split
 - **The Long End** — tethered players move to point incoming column AoE away from party
 - **Five-fingered Punishment** — stack on marked player to split damage
-

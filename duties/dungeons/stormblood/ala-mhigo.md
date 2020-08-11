@@ -46,4 +46,3 @@ date: 2020-08-07
 - ![](/assets/icons/role-healer.png) **Concentrativity** — party damage
 - ![](/assets/icons/role-dps.png) Destroy weapons
 - **Storm, Swell, Sword** — party damage based on duty gauge
-

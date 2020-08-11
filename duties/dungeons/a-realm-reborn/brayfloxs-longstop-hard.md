@@ -42,4 +42,3 @@ date: 2020-08-07
   - Push bombs away to edges of arena by attacking them
   - Avoid boss charge through center of arena
   - ![](/assets/icons/role-dps.png) Destroy Giant Bomb
-

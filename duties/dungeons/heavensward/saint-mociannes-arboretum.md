@@ -41,4 +41,3 @@ date: 2020-08-07
 - **Frond Fatale** — look away from boss
 - **Pretty Petal** — spread to avoid splash damage on party members
 - Dodge circular AoEs from adds
-

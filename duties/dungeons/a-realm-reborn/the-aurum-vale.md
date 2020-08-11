@@ -44,4 +44,3 @@ At the start, hug left wall to avoid most of the trash to first boss.
 - **Bad Breath** — dodge frontal cone AoE
   - If hit, interact with Morbol Fruit to remove debuffs
 - ![](/assets/icons/role-dps.png) Kill Morbol Fruit adds before they apply more stacks of Burr debuff
-

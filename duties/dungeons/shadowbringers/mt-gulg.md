@@ -49,4 +49,3 @@ Match platform 3x3 square sections to boss 3x3 square sections. Periodically, th
   - Be near copy that has halo ring around its head
 - **Solitaire Ring** — dodge column AoEs from rings in the order they spawn
 - ![](/assets/icons/role-tank.png) **Sacrament Sforzando** — tank buster
-

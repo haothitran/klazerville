@@ -50,4 +50,3 @@ date: 2020-08-07
 - **Genbu's Focus**
   - Destroy the Chelonian Gate before duty gauge fills
   - Avoid glowing orange tiles
-

@@ -50,4 +50,3 @@ Active boss will alternate. Keep watch on inactive boss in water around platform
 - **Shocking Plumage** — dodge radial AoE from boss
 - **Winding Current** — knocks back all players, then begins casting large ring AoE
   - Navigate through growing orbs to collapse into melee range for ring AoE
-

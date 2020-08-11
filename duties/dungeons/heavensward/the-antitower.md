@@ -43,6 +43,3 @@ date: 2020-08-07
 - **Terrifying Glance** — look away from boss
 - ![](/assets/icons/role-dps.png) **Dollhouse** — destroy dolls to free trapped player
   - ![](/assets/icons/role-healer.png) **Slapstick** — pulsing party damage
-
-
-

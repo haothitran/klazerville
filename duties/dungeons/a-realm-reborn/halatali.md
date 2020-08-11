@@ -42,6 +42,3 @@ date: 2020-08-07
 - **Double Smash** — dodge frontal cone AoE
 - **Firewater** — dodge circular AoE on random player
 - ![](/assets/icons/role-tank.png) Knockback (no progress bar, not telegraphed)
-
-
-

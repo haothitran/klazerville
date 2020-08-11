@@ -45,4 +45,3 @@ date: 2020-08-07
 - **Taphephobia** — spread to avoid splash damage on party members
 - **Into the Light** — stack on marked player to split damage
 - **Fierce Beating** — rotating frontal/rear cone AoEs
-

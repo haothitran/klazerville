@@ -27,6 +27,3 @@ date: 2020-08-07
 
 - ![](/assets/icons/role-dps.png) Kill three waves of adds — Imps > Skeleton/Miteling
 - **Mind Blast** — point blank AoE on boss
-
-
-

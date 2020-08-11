@@ -39,4 +39,3 @@ date: 2020-08-07
   - **Ram's Voice** (blue) — move away from boss
 - **Cacophony** — move away from pulsing purple orbs
 - **Ram's Keeper** — dodge circular AoE on random player
-

@@ -34,4 +34,3 @@ Destroy Fleshy Pods using ranged abilities to avoid death explosion.
 - ![](/assets/icons/role-dps.png) **Graffias' Tail** — destroy when it is exposed
 - Move out of green poison puddles
 - Kill adds
-

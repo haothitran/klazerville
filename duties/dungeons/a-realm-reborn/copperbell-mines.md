@@ -38,6 +38,3 @@ Pick up Firesands throughout dungeon to clear blocked tunnels with explosives.
 
 - **Colossal Slam** — dodge frontal cone AoE
 - Kill adds
-
-
-

@@ -44,4 +44,3 @@ date: 2020-08-07
 - Dodge AoEs
 - Marked player drop proximity AoE away from party
 - ![](/assets/icons/role-dps.png) Kill adds
-

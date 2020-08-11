@@ -41,4 +41,3 @@ date: 2020-08-07
 - ![](/assets/icons/role-healer.png) **Metta-giri** — party damage
 - **Inoshi-katcho** — dodge circular AoEs from blue butterflies
 - **Dragon's Lair** — destroy dragon heads, dodge column AoEs
-

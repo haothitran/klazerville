@@ -55,4 +55,3 @@ At the beginning of the dungeon, use partial walls to LoS column AoEs from purpl
   - **Lighting Breath** (outer heads)
     - Move to directly in front of boss
     - Stack on marked player to split damage
-

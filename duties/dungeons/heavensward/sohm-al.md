@@ -40,4 +40,3 @@ date: 2020-08-07
 - Destroy wings when they are targetable
 - **Heavensfall** — orange marked player run out to circular AoEs
 - ![](/assets/icons/role-healer.png) Dark Star — party damage
-

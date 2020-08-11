@@ -44,4 +44,3 @@ date: 2020-08-07
 - When boss flies away, move to middle of arena
   - If boss reappears on edge = move out of her charge path
   - If boss reappears in center = stay in center to avoid ring AoE
-

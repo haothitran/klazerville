@@ -37,4 +37,3 @@ date: 2020-08-07
   - ![](/assets/icons/role-healer.png) **Blood Rain** — party damage based on health of add when absorbed by boss
 - **Beguiling Mist** — all players are Seduced and lose control for a short time
   - Spread during cast to avoid splash damage from following Void Fire IV
-

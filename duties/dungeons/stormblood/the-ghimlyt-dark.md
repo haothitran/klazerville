@@ -43,4 +43,3 @@ date: 2020-08-07
 - ![](/assets/icons/role-tank.png) **Delta Trance** / **Innocence** — tank buster
 - ![](/assets/icons/role-healer.png) **Artificial Plasma** — party damage
 - Dodge various AoEs
-

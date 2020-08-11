@@ -48,4 +48,3 @@ date: 2020-08-07
 - ![](/assets/icons/role-healer.png) **Furious Fist**
   - Collect orbs to reduce incoming party damage at end of cast
   - Pulsing party damage, then larger final blast
-

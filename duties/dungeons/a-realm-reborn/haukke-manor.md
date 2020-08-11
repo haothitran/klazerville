@@ -39,6 +39,3 @@ After defeating the Manor Jester and Manor Steward in the basement, use your Ret
 - Interrupt casts when possible (Void Fire III, Void Thunder III)
 - **Dark Mist** — point blank AoE on boss
 - Kill adds, dodge AoEs
-
-
-

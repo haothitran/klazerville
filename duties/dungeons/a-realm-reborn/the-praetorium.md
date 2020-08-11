@@ -57,4 +57,3 @@ After defeating the first boss, all players must indivudally interact with the I
 ### Lahabrea
 
 - **Sea of Pitch** — avoid purple puddles
-

@@ -45,4 +45,3 @@ date: 2020-08-07
 - **Grenado Short** —targeted player will drop circular AoE and inflicted with Heavy debuff
   - ![](/assets/icons/role-healer.png) Use Esuna to remove Heavy debuff from party member
 - Push Firesand Kegs away from group
-

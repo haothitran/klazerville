@@ -36,4 +36,3 @@ date: 2020-08-07
 - Avoid tornados
 - ![](/assets/icons/role-dps.png) Kill adds — Mists > Gales
 - **Turbine** — party damage, knock back
-

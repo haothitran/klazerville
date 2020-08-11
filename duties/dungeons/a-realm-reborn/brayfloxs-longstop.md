@@ -48,4 +48,3 @@ date: 2020-08-07
 - **Toxic Vomit** — spits poison puddle on random player
 - ![](/assets/icons/role-tank.png) Move boss out of poison puddles, or else boss will heal
 - ![](/assets/icons/role-healer.png) Use Esuna to remove Poison debuff from party members
-

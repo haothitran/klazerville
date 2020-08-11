@@ -45,4 +45,3 @@ date: 2020-08-07
 - ![](/assets/icons/role-dps.png) **Sable Price** — destroy trap to free party member
 - Kill adds
 - **Massacre** — move into Estinien's shield
-

@@ -43,4 +43,3 @@ date: 2020-08-07
 - **Wallop** —  mid-range ring AoE, stand melee or max range
 - **Clearout** — knock backs all players
 - Periodically a tentacle will grab a player and toss them onto another platform
-

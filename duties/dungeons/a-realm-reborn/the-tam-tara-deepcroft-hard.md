@@ -37,4 +37,3 @@ date: 2020-08-07
 - Dodge various AoEs
 - ![](/assets/icons/role-dps.png) Kill adds before they reach the center of the platform
 - ![](/assets/icons/role-healer.png) **Red Wedding** — party damage based on how many adds reached center of platform and activated red runes
-

@@ -64,4 +64,3 @@ Answering correctly rewards party with extra treasure coffers, otherwise more tr
   - ![](/assets/icons/role-healer.png) **Verge Pulse** — party damage
 - ![](/assets/icons/role-healer.png) **Creeping Darkness** — party damage
 - ![](/assets/icons/role-healer.png) Use Esuna to remove Paralyze debuff from party members
-

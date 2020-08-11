@@ -45,4 +45,3 @@ date: 2020-08-07
   - Navigate across narrow walkway to reach boss' platform
   - Destroy boss' barrier before he finishes Finale cast
 - **Changeling's Fantasia** — dodge AoEs and tentacle slams
-

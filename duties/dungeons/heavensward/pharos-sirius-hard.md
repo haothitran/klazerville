@@ -39,4 +39,3 @@ date: 2020-08-07
 * ![](/assets/icons/role-tank.png) Frontal cleave
 * ![](/assets/icons/role-dps.png) Kill Grey > Lava bombs, push Remedy bombs away
 * ![](/assets/icons/role-healer.png) **Blue Flame** — party damage
-

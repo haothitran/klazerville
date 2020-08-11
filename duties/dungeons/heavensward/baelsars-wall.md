@@ -48,4 +48,3 @@ date: 2020-08-07
 - ![](/assets/icons/role-dps.png) **Lionshead** — destroy sword in middle of room to create safe zone
 - ![](/assets/icons/role-dps.png) **Restraint Collar** — destroy chain to free healer
 - **Big Foot** — knocks back marked player
-

@@ -47,4 +47,3 @@ Attacks are not telegraphed. Observe boss animations to detemine next mechanic.
 - Raise claws — frontal cleave
 - Raised tail — tail swipe
 - Spawns clone with same abilities, and gains fire breath
-

@@ -46,4 +46,3 @@ date: 2020-08-07
 - ![](/assets/icons/role-healer.png) **Everybody's Grudge** — party damage based on stacks of Rancor buff on boss
 - ![](/assets/icons/role-tank.png) **Sharpened Knife** — tank buster
 - **Tonberry Slasher** — keep your distance from these adds
-

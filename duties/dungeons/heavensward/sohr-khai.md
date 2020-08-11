@@ -42,4 +42,3 @@ date: 2020-08-07
 - **Holy Breath** — pulsing AoE on a random player
 - **Cauterize** —   large column AoE across multiple platforms and destroying them
 - Avoid ice orbs and white dragon heads roaming across platforms
-

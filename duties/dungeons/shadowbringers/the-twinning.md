@@ -47,4 +47,3 @@ Column AoEs will not fire for a time due to temporal stasis. Avoid being in path
 - **Artificial Gravity** — do not be near red circles, incoming explosion AoE
 - ![](/assets/icons/role-healer.png) **High-tension Discharger** — party damage
 - **Magicrystal** — spread to avoid splash damage on party members
-

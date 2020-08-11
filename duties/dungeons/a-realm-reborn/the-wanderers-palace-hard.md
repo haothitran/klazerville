@@ -43,4 +43,3 @@ date: 2020-08-07
 - **Rot Gas** — point blank AoE on boss
 - **Soul Douse** — look away from boss
   - ![](/assets/icons/role-healer.png) Remove Doom debuff by healing afflicted party members to full HP
-

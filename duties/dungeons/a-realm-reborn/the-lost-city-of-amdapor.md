@@ -44,4 +44,3 @@ date: 2020-08-07
   - ![](/assets/icons/role-healer.png) If fail to open matching doors before cast ends = party damage
 - ![](/assets/icons/role-tank.png) Frontal cleave
 - **Graviball** — targeted player run away to drop pulsing orb
-

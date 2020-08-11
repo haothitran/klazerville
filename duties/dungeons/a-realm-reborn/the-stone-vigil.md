@@ -33,4 +33,3 @@ date: 2020-08-07
 
 - **Sheet of Ice** — dodge circular AoE on random player, leaves persistent ice patch
 - **Cauterize** — dodge half-arena AoE after boss flies into air
-

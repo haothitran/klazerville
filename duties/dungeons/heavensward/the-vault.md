@@ -40,6 +40,3 @@ Bait two tears into same area, then move away for knock back. Repeat.
 - ![](/assets/icons/role-healer.png) **Altar Pyre** — party damage
 - Avoid being in path of marching knights
 - ![](/assets/icons/role-dps.png) Destroy Holy Flames
-
-
-

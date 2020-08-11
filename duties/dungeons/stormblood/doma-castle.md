@@ -43,4 +43,3 @@ After first boss, tank drag trash mobs past cannons to avoid constant bombardmen
 - ![](/assets/icons/role-healer.png) **Gunsaw** — focused attack on a player
 - **Thermobaric Charge** — marked player run away from party to drop off proximity AoE
 - Dodge column AoEs
-

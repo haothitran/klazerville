@@ -58,4 +58,3 @@ date: 2020-08-07
 - Dodge circular AoEs
 - ![](/assets/icons/role-dps.png) Destroy Wings when exposed
 - **Wingbeat** — green marked player will be knocked back
-

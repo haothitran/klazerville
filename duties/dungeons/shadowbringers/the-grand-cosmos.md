@@ -58,4 +58,3 @@ Note furniture around platform. Each item can be destroyed if hit by any of the 
   - Then, does frontal cone AoE
   - Move away to turn tether purple before being hit
 - ![](/assets/icons/role-healer.png) **Culling Blade** — party damage
-

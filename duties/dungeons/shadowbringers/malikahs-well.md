@@ -45,4 +45,3 @@ date: 2020-08-07
 - **Crystal Nail** — circular AoEs will spawn feathers
   - **Censure** — feathers have same abilities as boss
   - Dodge various AoE patterns
-
