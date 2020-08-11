@@ -485,7 +485,6 @@ td img {
   left: 0;
   cursor: pointer;
   background-color: var(--color-accent);
-  transition: 0.4s;
 }
 
 .theme-slider:before {
