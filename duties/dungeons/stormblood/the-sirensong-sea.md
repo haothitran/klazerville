@@ -2,7 +2,7 @@
 layout: dungeon
 title: The Sirensong Sea
 permalink: /duties/dungeons/stormblood/the-sirensong-sea
-date: 2020-08-07
+date: 2020-08-10
 ---
 
 # The Sirensong Sea
@@ -41,7 +41,7 @@ date: 2020-08-07
 
 - ![](/assets/icons/role-tank.png) **Headbutt** — tank buster
 - **Virgin Tears** — avoid puddles
-- **Morbid Advance/Tears** — force all players to take several steps in the direction they are facing \(not a push/pull to boss!\)
+- **Morbid Advance/Tears** — force all players to take several steps in the direction they are facing (not a push/pull to boss!)
   - Advance = forward
   - Tears = backwards
 - ![](/assets/icons/role-healer.png) **Somber Melody** — party damage
