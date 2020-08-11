@@ -2,7 +2,7 @@
 layout: page
 title: Jobs
 permalink: /general/jobs
-date: 2020-08-07
+date: 2020-08-10
 ---
 
 # Jobs
@@ -10,6 +10,8 @@ date: 2020-08-07
 Base classes will evolve into their respective jobs at level 30. New jobs introduced in expansions do not have a base class and will start at a higher base level.
 
 Note that all classes and jobs can be leveled on one character.
+
+## General Information
 
 | Base Class                                                                              | Icon                                   | Job                                                                 | Code | Role                                            |
 |:----------------------------------------------------------------------------------------|:---------------------------------------|:--------------------------------------------------------------------|:-----|:------------------------------------------------|
@@ -36,8 +38,31 @@ Note that all classes and jobs can be leveled on one character.
 - Summoner and Scholar share levels since they both derive from the Arcanist base class.
 - Blue Mage is a limited job.
 
-## Jobs from Expansions
+### Jobs from Expansions
 
 - Heavensward — [Dark Knight](https://na.finalfantasyxiv.com/lodestone/playguide/db/quest/92c86ebbdc7/) (30), [Astrologian](https://na.finalfantasyxiv.com/lodestone/playguide/db/quest/6b00e8264b7/) (30), [Machinist](https://na.finalfantasyxiv.com/lodestone/playguide/db/quest/8b4a18330a8/) (30), [Blue Mage](https://na.finalfantasyxiv.com/lodestone/playguide/db/quest/667c7f49a11/) (1)
 - Stormblood — [Samurai](https://na.finalfantasyxiv.com/lodestone/playguide/db/quest/6b274c524ae/) (50), [Red Mage](https://na.finalfantasyxiv.com/lodestone/playguide/db/quest/3870f2d3cf2/) (50)
 - Shadowbringers — [Gunbreaker](https://na.finalfantasyxiv.com/lodestone/playguide/db/quest/e3f6c6209c3/) (60), [Dancer](https://na.finalfantasyxiv.com/lodestone/playguide/db/quest/1b1d77bef99/) (60)
+
+## Specific Information
+
+| Job         | Disciple of | Weapon                | Armor   | Coffer   | Starting City |
+|-------------|-------------|-----------------------|---------|----------|---------------|
+| Paladin     | War         | Sword/Shield          | Plate   | Fending  | Ul'dah        |
+| Warrior     | War         | Greataxe              | Plate   | Fending  | Limsa Lominsa |
+| Dark Knight | War         | Greatsword            | Plate   | Fending  | Ishgard       |
+| Gunbreaker  | War         | Gunblade              | Plate   | Fending  | Gridania      |
+| Scholar     | Magic       | Book                  | Cloth   | Healing  | Limsa Lominsa |
+| White Mage  | Magic       | Canes, Wand/Shield    | Cloth   | Healing  | Gridania      |
+| Astrologian | Magic       | Star Globe            | Cloth   | Healing  | Ishgard       |
+| Dragoon     | War         | Polearm               | Plate   | Maiming  | Gridania      |
+| Monk        | War         | Fist weapons          | Leather | Striking | Ul'dah        |
+| Ninja       | War         | Dual daggers          | Leather | Scouting | Limsa Lominsa |
+| Samurai     | War         | Katana                | Leather | Striking | Ul'dah        |
+| Bard        | War         | Bow                   | Leather | Aiming   | Gridania      |
+| Machinist   | War         | Firearm               | Leather | Aiming   | Ishgard       |
+| Dancer      | War         | Throwing weapons      | Leather | Aiming   | Limsa Lominsa |
+| Black Mage  | Magic       | Staff, Scepter/Shield | Cloth   | Casting  | Ul'dah        |
+| Summoner    | Magic       | Book                  | Cloth   | Casting  | Limsa Lominsa |
+| Red Mage    | Magic       | Rapier                | Cloth   | Casting  | Ul'dah        |
+| Blue Mage   | Magic       | Canes                 | Cloth   | Casting  | Limsa Lominsa |
