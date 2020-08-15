@@ -9,7 +9,7 @@ date: 2020-08-15
 
 ## Gathering
 
-Gathering class, also known as *Disciples of the Land* (DoL), harvest natural resources.
+Gathering classes, also known as *Disciples of the Land* (DoL), harvest natural resources.
 
 | Classes  | Starting Zone |
 |----------|---------------|
