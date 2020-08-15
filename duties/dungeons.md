@@ -7,7 +7,7 @@ date: 2020-08-15
 
 # Dungeons
 
-This is not intended to be an all-encompassing, detailed guide for every dungeon, but rather a quick reference for the mechanics of certain bosses. As well as notes for interacting with items needed to progress through the dungeon.
+This is not intended to be an all-encompassing, detailed guide for every dungeon, but rather a quick reference on the mechanics of boss encounters. As well as notes for interactable items needed to progress through the dungeon.
 
 Jump to an expansion:
 
