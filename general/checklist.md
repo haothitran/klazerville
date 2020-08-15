@@ -9,6 +9,15 @@ date: 2020-08-11
 
 There is a lot to do in FFXIV. Various activities and tasks available to do every day and every week. It can be quite overwhelming sometimes—but you don't need to do everything. Everyone's checklist is going to be different based on what they are interested in and what their goals are.
 
+## Reminders
+
+- Check spiritbond of gear
+  - Once a piece of gear reaches 100% spiritbond, free materia can be extracted from it
+  - Spiritbond returns to 1% once you have extracted the materia
+  - Gain spiritbond from defeating enemies, gathering items, and crafting items
+  - Indicated by white dot for the gear slot on the Inventory Grid
+- Duplicate Triple Triad Cards can be turned in at the Gold Saucer for MGP
+  - Find the Triple Triad Trader in the blue zone of the map
 
 ## Daily
 
