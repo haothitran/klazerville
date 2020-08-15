@@ -2,10 +2,14 @@
 layout: page
 title: Dungeons
 permalink: /duties/dungeons
-date: 2020-08-11
+date: 2020-08-15
 ---
 
 # Dungeons
+
+This is not intended to be an all-encompassing, detailed guide for every dungeon, but rather a quick reference for the mechanics of certain bosses. As well as notes for interacting with items needed to progress through the dungeon.
+
+Jump to an expansion:
 
 - [A Realm Reborn](#a-realm-reborn)
 - [Heavensward](#heavensward)
