@@ -24,11 +24,11 @@
 
 - Do not kill Spriggan adds
 - ![](/assets/icons/role-tank.png) **Frozen Mist** — frontal cone AoE
-  - Face boss towards Spriggans to turn them into Snowballs
-  - Push snowballs into boss to damage and interrupt casts
-  - Larger snowballs deal more damage to boss
+    - Face boss towards Spriggans to turn them into Snowballs
+    - Push snowballs into boss to damage and interrupt casts
+    - Larger snowballs deal more damage to boss
 - **Northerlies** — arena AoE
-  - Push snowball into boss to interrupt cast
+    - Push snowball into boss to interrupt cast
 - ![](/assets/icons/role-dps.png) Kill Frostbound adds before they destroy Snowballs
 
 ### Fenrir

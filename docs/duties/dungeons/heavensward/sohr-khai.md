@@ -24,14 +24,14 @@
 - **Quasar** — charges targeted player, aim down platform to not break any walls
 - **Jump** — move away from proximity AoE to avoid excess damage
 - ![](/assets/icons/role-healer.png) **Charge** — boss charges down the platform
-  - Stand on sides of platform against wall
-  - If there are no walls, stand in center of platform — better to take more damage from charge than be electrified
+    - Stand on sides of platform against wall
+    - If there are no walls, stand in center of platform — better to take more damage from charge than be electrified
 - **Cloud Call** — marked player will spawn thundercloud, place away from party or near a wall that has been destroyed
 
 ### Hraesvelgr
 
 - Walk into wind circles to jump onto other platforms
-  - Don't worry — you will not be stranded on a platform, wind circles will still work even if you are not directly adjacent to other platforms
+    - Don't worry — you will not be stranded on a platform, wind circles will still work even if you are not directly adjacent to other platforms
 - **Holy Breath** — pulsing AoE on a random player
 - **Cauterize** —   large column AoE across multiple platforms and destroying them
 - Avoid ice orbs and white dragon heads roaming across platforms

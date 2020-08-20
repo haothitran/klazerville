@@ -25,9 +25,9 @@
 - ![](/assets/icons/role-healer.png) **Citadel Buster** — dodge column AoE at random player
 - **Ceruleum Vent** — party damage, knockback
 - **Primordial Aether** — varies depending on which Primal statue is active
-  - Zurvan — receive fire/ice debuff, stand in matching circle
-  - Sephirot — marked players will drop large growing puddle
-  - Sophia — receive white/black debuff, stack with another player of opposite colour
+    - Zurvan — receive fire/ice debuff, stand in matching circle
+    - Sephirot — marked players will drop large growing puddle
+    - Sophia — receive white/black debuff, stack with another player of opposite colour
 - **Mass Aetheroplasm** — stack on marked player to split damage
 
 ### The Ultima Beast

@@ -13,8 +13,8 @@
 ### Liavinne
 
 - Do not attack zombies
-  - If killed, will apply stacking vulnerability debuff on group
-  - Kite zombies
+    - If killed, will apply stacking vulnerability debuff on group
+    - Kite zombies
 - Marked player run into horde of zombies to kill them with explosion AoE
 
 ### Spare Body

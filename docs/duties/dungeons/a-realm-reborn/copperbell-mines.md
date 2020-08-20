@@ -23,9 +23,9 @@
 
 - Cannot DPS boss like usual boss encounters
 - Interact with **Improved Blasting Device** to spawn Blasting Cap adds
-  - Do not kill Blasting Cap, let it explode on its own
-  - ![](/assets/icons/role-tank.png) Position boss in Blasting Cap's explosion AoE
-  - Repeat until boss can be killed
+    - Do not kill Blasting Cap, let it explode on its own
+    - ![](/assets/icons/role-tank.png) Position boss in Blasting Cap's explosion AoE
+    - Repeat until boss can be killed
 - ![](/assets/icons/role-dps.png) Kill Spriggan adds before they destroy Blasting Caps
 
 ### Gyges the Great

@@ -19,17 +19,17 @@
 - **Magitek Fire II** — dodge circular AoE on random player
 - ![](/assets/icons/role-healer.png) **Magitek Fire III** — party damage
 - **Wild Speed** — dodge column AoEs
-  - ![](/assets/icons/role-dps.png) Kill adds and command their turrets
-  - Fire turret when boss is stationary
+    - ![](/assets/icons/role-dps.png) Kill adds and command their turrets
+    - Fire turret when boss is stationary
 
 ### Number XXIV
 
 - ![](/assets/icons/role-tank.png) **Stab** — tank buster
 - **Gale Cut** — dodge circular AoEs on players
 - **Elemental Pillars** — spawns circles with various elements (fire, ice, lightning)
-  - **Barrier Shift** — boss gains shield that reflects damage based on element
-  - Run to circle with same element as boss to gain buff to damage boss
-  - For example, *My cup runneth over with `<fire>` and `<lighting>`!* — step into ice circle
+    - **Barrier Shift** — boss gains shield that reflects damage based on element
+    - Run to circle with same element as boss to gain buff to damage boss
+    - For example, *My cup runneth over with `<fire>` and `<lighting>`!* — step into ice circle
 
 ### Inferno
 

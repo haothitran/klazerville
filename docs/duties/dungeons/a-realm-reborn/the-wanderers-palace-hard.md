@@ -17,14 +17,14 @@
 ### Frumious Koheel Ja
 
 - ![](/assets/icons/role-dps.png) Destroy spears
-  - ![](/assets/icons/role-healer.png) Pulsing party damage while spears are up
+    - ![](/assets/icons/role-healer.png) Pulsing party damage while spears are up
 - **Burning Memories** — dodge circular AoE at random player
 
 ### Slithy Zolool Ja
 
 - Standing in coloured totem gives either buff or debuff
-  - Randomized for every instance
-  - Boss will gain buff/debuff from unconsumed totems
+    - Randomized for every instance
+    - Boss will gain buff/debuff from unconsumed totems
 - Use first set of totems to determine which provides buffs
 
 ### Manxome Molaa Ja Ja
@@ -35,4 +35,4 @@
 - **Tyrannic Blare** — dodge large frontal cone AoE at random player
 - **Rot Gas** — point blank AoE on boss
 - **Soul Douse** — look away from boss
-  - ![](/assets/icons/role-healer.png) Remove Doom debuff by healing afflicted party members to full HP
+    - ![](/assets/icons/role-healer.png) Remove Doom debuff by healing afflicted party members to full HP

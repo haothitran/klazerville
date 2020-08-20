@@ -25,7 +25,7 @@
 - **Seduce** — run to your own treasure chest before cast ends to avoid mind control
 - **Coriolis Kick** — point blank AoE on boss
 - **Abyssal Volcano** — trailing circular AoEs on random players
-  - Do not run over chests here or you will be slowed
+    - Do not run over chests here or you will be slowed
 
 ### Shisui Yohi
 

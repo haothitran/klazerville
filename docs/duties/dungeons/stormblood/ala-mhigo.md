@@ -24,8 +24,8 @@
 - ![](/assets/icons/role-healer.png) **Mana Burst** — party damage
 - Dodge various AoE patterns
 - **Mindjack** — knocks players out of their bodies
-  - Dodge AoEs and adds while slowly getting back to your body
-  - Kill adds once reclaimed bodies to help slower party members
+    - Dodge AoEs and adds while slowly getting back to your body
+    - Kill adds once reclaimed bodies to help slower party members
 - **Demimagicks** — spread to avoid splash damage on party members
 
 ### Zenos Yae Galvus

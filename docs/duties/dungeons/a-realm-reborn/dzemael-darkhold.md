@@ -16,7 +16,7 @@ Stand in blue Magitek terminals for a short time to unlock next door. Some termi
 ### All-seeing Eye
 
 - Boss is invulnerable to attack unless in purple zone near crystals
-  - Move to new crystals when *the power of the crystal begins to dim*
+    - Move to new crystals when *the power of the crystal begins to dim*
 - ![](/assets/icons/role-healer.png) **Eyes on Me** — party damage unless players are near crystals
 - Dodge frontal cone AoEs
 - Kill adds

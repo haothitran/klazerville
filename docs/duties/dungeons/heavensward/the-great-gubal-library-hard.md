@@ -27,8 +27,8 @@
 - **Slosh** — tethered player run away from boss
 - **Seal of Night and Day** — players will receive sun/moon mark, run into same sigil on the floor
 - **Ferrofluid** — players will get be assigned either + or - marks
-  - Same mark as boss = move close to boss
-  - Opposite mark from boss = move away from boss
+    - Same mark as boss = move close to boss
+    - Opposite mark from boss = move away from boss
 
 ### Strix
 

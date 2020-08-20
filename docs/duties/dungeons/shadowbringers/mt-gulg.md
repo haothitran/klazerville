@@ -34,11 +34,11 @@ Match platform 3x3 square sections to boss 3x3 square sections. Periodically, th
 
 - ![](/assets/icons/role-healer.png) **Orison Fortissimo** — party damage
 - **Divine Diminuendo** — point blank AoE on boss, then ring AoEs
-  - Tip: stand on edge of inital point blank AoE to avoid ring AoEs
+    - Tip: stand on edge of inital point blank AoE to avoid ring AoEs
 - **Conviction Marcato** — dodge column AoEs from boss and yellow discs
 - **Penance Pianissimo** — reduces platform size
 - **Feather Marionette**
-  - Clones have same abilities as boss
-  - Be near copy that has halo ring around its head
+    - Clones have same abilities as boss
+    - Be near copy that has halo ring around its head
 - **Solitaire Ring** — dodge column AoEs from rings in the order they spawn
 - ![](/assets/icons/role-tank.png) **Sacrament Sforzando** — tank buster

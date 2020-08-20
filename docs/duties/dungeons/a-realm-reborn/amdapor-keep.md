@@ -13,11 +13,11 @@
 ### Psycheflayer
 
 - **Lunatic Priest**
-  - **Void Fire II** — dodge circular AoE on random player
+    - **Void Fire II** — dodge circular AoE on random player
 - **Psycheflayer**
-  - ![](/assets/icons/role-tank.png) **Void Thunder III** — tank buster (interruptible)
-  - Kill adds, dodge coumn AoEs
-  - Avoid being in path of huge golem due to large point blank AoE
+    - ![](/assets/icons/role-tank.png) **Void Thunder III** — tank buster (interruptible)
+    - Kill adds, dodge coumn AoEs
+    - Avoid being in path of huge golem due to large point blank AoE
 
 ### Demon Wall
 
@@ -27,7 +27,7 @@
 ### Anantaboga
 
 - **Rotten Breath** — frontal breath, applies Disease debuff
-  - ![](/assets/icons/role-healer.png) Use Esuna to remove Disease debuff from tank
+    - ![](/assets/icons/role-healer.png) Use Esuna to remove Disease debuff from tank
 - **Tail Drive** — rear cone AoE
 - **Imminent Catastrophe** — arena AoE, use statues to LoS from falling red meteor
 - Kill add — dodge circular AoE on random player

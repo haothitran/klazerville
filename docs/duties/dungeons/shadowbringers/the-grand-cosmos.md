@@ -18,9 +18,9 @@
 - ![](/assets/icons/role-tank.png) **Shadowbolt** — tank buster
 - ![](/assets/icons/role-healer.png) **Immortal Anathema** — party damage
 - **Tribulation** — avoid puddles and brooms
-  - Avoid circular AoEs, leaving behind persistent puddles
-  - Avoid brooms as they move to puddles in their lanes
-  - Brooms create large circular AoE when they reach their puddle
+    - Avoid circular AoEs, leaving behind persistent puddles
+    - Avoid brooms as they move to puddles in their lanes
+    - Brooms create large circular AoE when they reach their puddle
 - **Dark Shock** — dodge circular AoEs on players
 - **Dark Pulse** — stack on marked player to split damage
 - **Dark Well** — spread to avoid splash damage on party members
@@ -30,7 +30,7 @@
 - ![](/assets/icons/role-tank.png) **Storm of Color** — tank buster
 - ![](/assets/icons/role-healer.png) **Ode to Lost Love** — party damage
 - **Direct Seeding** — interact with Seeds to move them to non-grass tiles
-  - Kill Sprout adds if they spawn
+    - Kill Sprout adds if they spawn
 - **Ode to Far Winds** — dodge circular AoEs around platform, while spreading to avoid splash damage on party members
 - **Ode of Fallen Petals** — collapse into melee range for ring AoE around platform
 - **Ireful Wind** — knocks players and Seeds one tile in direction of arrows
@@ -41,13 +41,13 @@ Note furniture around platform. Each item can be destroyed if hit by any of the 
 
 - **Scorching Left/Right** — half-platform AoE from boss
 - **Otherworldly Heat** (red mark)
-  - First, circular AoE around player
-  - Then, cardinal AoE from same drop off point
-  - Move further away than you think you need to, effect is larger than animation!
+    - First, circular AoE around player
+    - Then, cardinal AoE from same drop off point
+    - Move further away than you think you need to, effect is larger than animation!
 - ![](/assets/icons/role-tank.png) **Captive Bolt** — tank buster
 - **Mortal Flame** — move near furniture to transfer blue fire debuff before it kills you
 - **Fire's Domain**
-  - First, boss charges players in order of number assigned above heads
-  - Then, does frontal cone AoE
-  - Move away to turn tether purple before being hit
+    - First, boss charges players in order of number assigned above heads
+    - Then, does frontal cone AoE
+    - Move away to turn tether purple before being hit
 - ![](/assets/icons/role-healer.png) **Culling Blade** — party damage

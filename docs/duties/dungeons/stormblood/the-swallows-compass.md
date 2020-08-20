@@ -34,13 +34,13 @@ Note boss emotes to determine next boss mechanic.
 
 - ![](/assets/icons/role-tank.png) **The Short End** — tank buster
 - **Both Ends** — boss changes weapons
-  - normal weapon — point blank AoE on boss
-  - glowing weapon — collapse into melee range ring AoE
+    - normal weapon — point blank AoE on boss
+    - glowing weapon — collapse into melee range ring AoE
 - ![](/assets/icons/role-healer.png) **Mount Huaguo** — party damage
 - ![](/assets/icons/role-dps.png) **Monkey Magicks** — kill adds
 - ![](/assets/icons/role-healer.png) **Second Heaven** — party damage based on duty gage
 - **Splitting Hairs**
-  - Boss clone has same abilities
-  - Kill both at same time to avoid another clone split
+    - Boss clone has same abilities
+    - Kill both at same time to avoid another clone split
 - **The Long End** — tethered players move to point incoming column AoE away from party
 - **Five-fingered Punishment** — stack on marked player to split damage

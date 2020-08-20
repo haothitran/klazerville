@@ -24,15 +24,15 @@
 ### Sabotender Emperatriz
 
 - ![](/assets/icons/role-dps.png) **100,000 Needles** — DPS boss to interrupt cast or party wipes
-  - Kill Guardia add if it is alive, soaks damage and prevents interrupt on boss
+    - Kill Guardia add if it is alive, soaks damage and prevents interrupt on boss
 - **3000 Needles** — dodge circular AoE on random player
 - Kill adds
 
 ### Vicegerent to the Warden
 
 - **Curse of the Mummy** — stacking debuff, at 4 stacks will turn players into mummies
-  - Received by getting hit by boss' abilities
-  - Mummified players will stack debuff on other nearby players
+    - Received by getting hit by boss' abilities
+    - Mummified players will stack debuff on other nearby players
 - **Wall of the Mummy** — avoid being in path of marching mummies
 - **Light of Anathema** — dodge column AoE at random player (not telegraphed)
 - **Flurry of Rage** — frontal cleave at random player

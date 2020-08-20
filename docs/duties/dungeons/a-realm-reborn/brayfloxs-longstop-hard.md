@@ -23,15 +23,15 @@
 - **Oversurge** — point blank AoE on boss
 - Charges at random player
 - Avoid blue oil puddles
-  - If oil puddles touch any AoE ability, will ignite and explode
+    - If oil puddles touch any AoE ability, will ignite and explode
 - Kill adds
-  - **Bomb Toss** — dodge circular AoE on random player
+    - **Bomb Toss** — dodge circular AoE on random player
 
 ### Gobmachine G-VI
 
 - Kill adds
 - Boss moves to circle outer ring of arena
-  - Collapse into middle of arena
-  - Push bombs away to edges of arena by attacking them
-  - Avoid boss charge through center of arena
-  - ![](/assets/icons/role-dps.png) Destroy Giant Bomb
+    - Collapse into middle of arena
+    - Push bombs away to edges of arena by attacking them
+    - Avoid boss charge through center of arena
+    - ![](/assets/icons/role-dps.png) Destroy Giant Bomb

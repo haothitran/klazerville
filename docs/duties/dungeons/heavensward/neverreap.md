@@ -20,8 +20,8 @@
 
 - Marked players will drop a totem
 - **Totem Chant** — boss will revive any totems in purple zone
-  - Interact with **Vanu Totems** and move them out of purple zone
-  - ![](/assets/icons/role-dps.png) Kill any Totems that are revived, applies Invulnerability buff to boss
+    - Interact with **Vanu Totems** and move them out of purple zone
+    - ![](/assets/icons/role-dps.png) Kill any Totems that are revived, applies Invulnerability buff to boss
 - **Vanu Stripe** — dodge frontal cone AoE
 
 ### Waukkeon

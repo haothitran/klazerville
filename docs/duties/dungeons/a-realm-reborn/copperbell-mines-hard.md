@@ -19,8 +19,8 @@
 
 - Cannot DPS boss like usual boss encounters
 - Interact with **Improved Blasting Device** to spawn Waymaker Bombs
-  - Carry Bombs into the path of the boss to deal damage
-  - Repeat until boss can be killed
+    - Carry Bombs into the path of the boss to deal damage
+    - Repeat until boss can be killed
 - ![](/assets/icons/role-tank.png) **Rockslide** — frontal column AoE at tank (not telegraphed)
 - Dodge circular AoEs
 - Kill adds
@@ -30,6 +30,6 @@
 - **Mercurial Strike** — point blank AoE on boss
 - **Power Attack** — dodge circular AoE on random player
 - *The abyss worm is searching for fodder*
-  - Interact with **Crystalized Rock** to carry it onto sand area to distract submerged worm
-  - ![](/assets/icons/role-healer.png) **Bottomless Desert** — party damage if rock is not placed for worm
+    - Interact with **Crystalized Rock** to carry it onto sand area to distract submerged worm
+    - ![](/assets/icons/role-healer.png) **Bottomless Desert** — party damage if rock is not placed for worm
 - Kill adds

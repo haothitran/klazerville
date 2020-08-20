@@ -29,10 +29,10 @@
 ### Kraken
 
 - Use water sprouts to move to different platforms
-  - Each platform jump applies stacking debuff that reduces maximum HP and increases damage taken for a short time
+    - Each platform jump applies stacking debuff that reduces maximum HP and increases damage taken for a short time
 - Avoid inky black puddles
 - Marked players will drop a tornado after a few moments
-  - Move to another platform, drop tornado, then jump back to party
+    - Move to another platform, drop tornado, then jump back to party
 - **Wallop** —  mid-range ring AoE, stand melee or max range
 - **Clearout** — knock backs all players
 - Periodically a tentacle will grab a player and toss them onto another platform

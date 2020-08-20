@@ -28,10 +28,10 @@ Attacks are not telegraphed. Observe boss animations to determine next mechanic.
 - **11-tonze Swipe** — dodge frontal AoE
 - **111-tonze Swipe** — point blank AoE on boss
 - **1111-tonze Swing** — arena AoE
-  - Interact with **Biomass Incubator** to spawn an add that will distract boss
-  - ![](/assets/icons/role-dps.png) Kill add before boss consumes it and gains buff
+    - Interact with **Biomass Incubator** to spawn an add that will distract boss
+    - ![](/assets/icons/role-dps.png) Kill add before boss consumes it and gains buff
 - ![](/assets/icons/role-healer.png) **Disorienting Groan** — party damage, knock back, charges players
-  - **10-tonze Slash** — frontal column AoE at random player
+    - **10-tonze Slash** — frontal column AoE at random player
 
 ### The Curator
 

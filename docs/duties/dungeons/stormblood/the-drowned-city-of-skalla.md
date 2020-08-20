@@ -22,7 +22,7 @@
 - **Hydra Pull** — move away from boss
 - **Hydra Push** — move close to boss
 - **Bloody Puddle** — spread to avoid splash damage on party members
-  - Kite tethered water orbs, incoming explosion AoE
+    - Kite tethered water orbs, incoming explosion AoE
 
 ### The Old One
 

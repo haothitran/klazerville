@@ -28,7 +28,7 @@
 - ![](/assets/icons/role-healer.png) **Launcher** — party damage
 - **Dynamic Sensory Jammer** — do not attack or move until Extreme Caution debuff expires
 - **Diffractive Laser** — drops circular puddle on player
-  - If you are also have Extreme Caution debuff, wait for debuff to expire before moving out of puddle
+    - If you are also have Extreme Caution debuff, wait for debuff to expire before moving out of puddle
 - **Magitek Bit** — dodge checkerboard AoE
 - ![](/assets/icons/role-dps.png) ![](/assets/icons/role-tank.png) ![](/assets/icons/role-healer.png) **Distress Beacon** — Kill adds, beware tank damage due to sheer number of adds
 

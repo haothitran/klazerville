@@ -26,7 +26,7 @@
 - **Body Slam** — point blank AoE on boss
 - **Fall of Man** — dodge circular AoE on random player, leaves behind poison cloud
 - ![](/assets/icons/role-dps.png) Kill bombs after they consume one or two clouds
-  - ![](/assets/icons/role-healer.png) If bomb consumes 4 clouds, it will explode
+    - ![](/assets/icons/role-healer.png) If bomb consumes 4 clouds, it will explode
 - ![](/assets/icons/role-healer.png) **Original Sin** — use Esuna to remove Disease debuff from party members
 
 ### Nidhogg

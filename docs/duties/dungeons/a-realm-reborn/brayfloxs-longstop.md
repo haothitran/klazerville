@@ -29,7 +29,7 @@
 - **Queer Bubble** — destroy bubble to free party member
 - **Eerie Light** — point blank AoE on boss
 - At low health, boss will be eaten by a dragon
-  - **Dragon Breath** — dodge frontal column AoE
+    - **Dragon Breath** — dodge frontal column AoE
 
 ### Deep Jungle Coeurl (Optional)
 

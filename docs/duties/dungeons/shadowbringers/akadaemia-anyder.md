@@ -20,12 +20,12 @@ Interrupt Noahionto cast from trash between second and last boss. Causes high pa
 Active boss will alternate. Keep watch on inactive boss in water around platform. When inactive boss stops swimming, there will be an incoming platform AoE ability directly in front of them.
 
 - **Cladoselache**
-  - ![](/assets/icons/role-tank.png) **Protolithic Puncture** — tank buster
-  - **Tidal Guillotine** — point blank AoE on boss
-  - **Aquatic Lance** — drops puddle on marked player
+    - ![](/assets/icons/role-tank.png) **Protolithic Puncture** — tank buster
+    - **Tidal Guillotine** — point blank AoE on boss
+    - **Aquatic Lance** — drops puddle on marked player
 - **Doliodus**
-  - **Pelagic Cleaver** — large frontal cone AoE at random player
-  - ![](/assets/icons/role-healer.png) **Marine Mayhem** — pulsing party damage
+    - **Pelagic Cleaver** — large frontal cone AoE at random player
+    - ![](/assets/icons/role-healer.png) **Marine Mayhem** — pulsing party damage
 
 ### Marquis Morbol
 
@@ -42,4 +42,4 @@ Active boss will alternate. Keep watch on inactive boss in water around platform
 - Soak blue orbs to gain Damage Up buff
 - **Shocking Plumage** — dodge radial AoE from boss
 - **Winding Current** — knocks back all players, then begins casting large ring AoE
-  - Navigate through growing orbs to collapse into melee range for ring AoE
+    - Navigate through growing orbs to collapse into melee range for ring AoE

@@ -22,16 +22,16 @@ After defeating first boss, fight trash mobs in spotlights for increased damaga 
 - **Psycho Squama** — dodge frontal cone AoE at random player
 - Tethered player move out to intercept orb, leaves behind puddle upon impact
 - **Neuro Squamae** — create copies of players that will cast frontal cone AoE
-  - Before cast ends, be at edge of arena and face wall to keep arena clear of AoEs
+    - Before cast ends, be at edge of arena and face wall to keep arena clear of AoEs
 
 ### Winged Lion
 
 - **Ancient Aero/Stone** — pop bubbles before they explode on their own for more damage
 - ![](/assets/icons/role-dps.png) **Ancient Holy** — destroy Arcane Sphere underneath boss
 - **Ancient Libra** — each player receives debuff that reduces their earth or wind resistance
-  - Players should now only pop bubbles of opposite element
-  - Have Earth debuff > pop Wind bubbles
-  - Have Wind debuff > pop Earth bubbles
+    - Players should now only pop bubbles of opposite element
+    - Have Earth debuff > pop Wind bubbles
+    - Have Wind debuff > pop Earth bubbles
 
 ### Kuribu
 

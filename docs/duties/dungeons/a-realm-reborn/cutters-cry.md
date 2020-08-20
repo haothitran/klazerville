@@ -28,7 +28,7 @@
 
 - ![](/assets/icons/role-tank.png) Dodge various frontal cone AoEs
 - *The dragon's eyes now burn violet/blue.*
-  - **Dragon's Voice** (violet) — move close to boss
-  - **Ram's Voice** (blue) — move away from boss
+    - **Dragon's Voice** (violet) — move close to boss
+    - **Ram's Voice** (blue) — move away from boss
 - **Cacophony** — move away from pulsing purple orbs
 - **Ram's Keeper** — dodge circular AoE on random player

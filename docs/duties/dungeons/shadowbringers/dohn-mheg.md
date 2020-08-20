@@ -35,6 +35,6 @@
 - **Imp Choir** — look away from boss
 - **Toad Choir** — dodge frontal cone AoE at random player (not telegraphed)
 - **Funambulist's Fantasia**
-  - Navigate across narrow walkway to reach boss' platform
-  - Destroy boss' barrier before he finishes Finale cast
+    - Navigate across narrow walkway to reach boss' platform
+    - Destroy boss' barrier before he finishes Finale cast
 - **Changeling's Fantasia** — dodge AoEs and tentacle slams

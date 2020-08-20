@@ -21,7 +21,7 @@ At the beginning of the dungeon, use partial walls to LoS column AoEs from purpl
 - **Sun Toss** — dodge circular AoE on random player
 - **Lozatl's Scorn** — half-platform AoE from purple statues
 - **Heat Up** — upcoming half-platform AoE on boss' glowing side
-  - **Lozatl's Fury** — half-platform AoE
+    - **Lozatl's Fury** — half-platform AoE
 - Beware overlapping AoE mechanics
 
 ### Batsquatch
@@ -38,13 +38,13 @@ At the beginning of the dungeon, use partial walls to LoS column AoEs from purpl
 - **Hound out of Heaven** — tethered player run away until tether turns purple colour
 - ![](/assets/icons/role-healer.png) **Glossolalia** — party damage
 - **Viper Poison** — dodgel circular AoEs, leaves behind persistent poison puddles
-  - **Inhale** — pulls players towards boss
-  - **Heaving Breath** — boss pushes players away
-  - Position to avoid having boss move you over poison puddles
+    - **Inhale** — pulls players towards boss
+    - **Heaving Breath** — boss pushes players away
+    - Position to avoid having boss move you over poison puddles
 - **Confession of Faith** — frontal cone AoE from head(s) with glowing orb in front of it
-  - **Fire Breath** (middle head)
-    - Move to sides of boss
-    - Spread to avoid splash damage
-  - **Lighting Breath** (outer heads)
-    - Move to directly in front of boss
-    - Stack on marked player to split damage
+    - **Fire Breath** (middle head)
+        - Move to sides of boss
+        - Spread to avoid splash damage
+    - **Lighting Breath** (outer heads)
+        - Move to directly in front of boss
+        - Stack on marked player to split damage

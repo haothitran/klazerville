@@ -36,5 +36,5 @@
 - **Heretics Fork** — dodge cardinal AoE from boss
 - **Breaking Wheel** — collapse into melee range for ring AoE around platform
 - **Crystal Nail** — circular AoEs will spawn feathers
-  - **Censure** — feathers have same abilities as boss
-  - Dodge various AoE patterns
+    - **Censure** — feathers have same abilities as boss
+    - Dodge various AoE patterns

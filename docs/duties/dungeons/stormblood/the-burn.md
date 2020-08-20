@@ -35,9 +35,9 @@ Do not attack boss during Cold Fog cast. Avoid AoEs. Break frozen party members 
 
 - ![](/assets/icons/role-healer.png) **Rime Wreath** — party damage
 - ![](/assets/icons/role-tank.png) **Frost Breath** — tank buster, drops puddle
-  - ![](/assets/icons/role-healer.png) Use Esuna to remove Frostbite debuff from tank
+    - ![](/assets/icons/role-healer.png) Use Esuna to remove Frostbite debuff from tank
 - **Fog Plume** — dodge column AoEs from starburst on floor
 - **Vaporize** — do not attack boss or else you will be frozen
-  - ![](/assets/icons/role-dps.png) Kill adds before circular AoE covers entire platform
+    - ![](/assets/icons/role-dps.png) Kill adds before circular AoE covers entire platform
 - **Deep Fog** — dodge column AoEs across platform
 - **Touchdown** — move away from proximity AoE to avoid excess damage

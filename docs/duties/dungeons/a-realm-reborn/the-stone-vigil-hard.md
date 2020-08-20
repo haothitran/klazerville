@@ -23,11 +23,11 @@
 ### Cuca Fera
 
 - Interact with Bertha cannons in corners of arena to attack the boss and adds
-  - Use first ability in cannon to damage the boss
-  - **Diamondback** — do not fire at boss when it has shield up, reflects damage
+    - Use first ability in cannon to damage the boss
+    - **Diamondback** — do not fire at boss when it has shield up, reflects damage
 - **Hard Stomp** — arena AoE
-  - Use second ability in cannon to interrupt cast
-  - Need a two player rotation interrupting alternate casts
+    - Use second ability in cannon to interrupt cast
+    - Need a two player rotation interrupting alternate casts
 - Periodically boss will charge at cannons
 
 ### Giruveganaus

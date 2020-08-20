@@ -16,9 +16,9 @@
 - **Water Bomb** — dodge circular AoEs
 - Avoid being near bubbles, incoming explosion AoE
 - **Frog Song**
-  - ![](/assets/icons/role-dps.png) Kill Poroggo Choirtoad adds to free players from polymorph
-  - ![](/assets/icons/role-healer.png) Pulsing party damage
-  - Polymorphed players bait circular AoEs away from party
+    - ![](/assets/icons/role-dps.png) Kill Poroggo Choirtoad adds to free players from polymorph
+    - ![](/assets/icons/role-healer.png) Pulsing party damage
+    - Polymorphed players bait circular AoEs away from party
 - ![](/assets/icons/role-tank.png)![](/assets/icons/role-healer.png) **Toy Hamme**r — stuns tank, use Esuna to remove Concussion debuff
 
 ### Ziggy
@@ -35,4 +35,4 @@
 - **Brace** — boss puts up shield, except for one exposed side
 - **Terrifying Glance** — look away from boss
 - ![](/assets/icons/role-dps.png) **Dollhouse** — destroy dolls to free trapped player
-  - ![](/assets/icons/role-healer.png) **Slapstick** — pulsing party damage
+    - ![](/assets/icons/role-healer.png) **Slapstick** — pulsing party damage

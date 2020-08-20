@@ -35,17 +35,17 @@ After defeating the first boss, all players must indivudally interact with the I
 ### Ultima Weapon
 
 - Phase 1
-  - Dodge green column AoEs
-  - Move in for blue ring AoE, then out for smash in middle of platform
-    - Collapse into melee for blue ring AoE around platform
-    - Following is a circular AoE in middle of platform (not telegraphed)
-  - Dodge circular AoEs
-  - Trailing fire puddles on random player
+    - Dodge green column AoEs
+    - Move in for blue ring AoE, then out for smash in middle of platform
+        - Collapse into melee for blue ring AoE around platform
+        - Following is a circular AoE in middle of platform (not telegraphed)
+    - Dodge circular AoEs
+    - Trailing fire puddles on random player
 - Phase 2
-  - Dodge column AoEs
-  - Targeted player move away from green orb
-  - Destroy adds
-  - Move away from proximity AoEs
+    - Dodge column AoEs
+    - Targeted player move away from green orb
+    - Destroy adds
+    - Move away from proximity AoEs
 
 ### Lahabrea
 

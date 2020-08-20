@@ -22,8 +22,8 @@
 
 - ![](/assets/icons/role-tank.png) Frontal cleaves
 - **Inhale** — dodge frontal cone AoE at random player
-  - Pulls players to boss, move away as soon as possible
-  - **Goobbue's Grief** — applies Poison debuff to nearby players
+    - Pulls players to boss, move away as soon as possible
+    - **Goobbue's Grief** — applies Poison debuff to nearby players
 - **Moldy Phlegm** — dodge circular AoE on random player
 - ![](/assets/icons/role-healer.png) Use Esuna to remove debuffs from party members
 

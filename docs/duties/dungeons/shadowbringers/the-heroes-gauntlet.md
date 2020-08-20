@@ -29,9 +29,9 @@ Dodge AoEs. Purple markers will mirror boss' AoE.
 - **Absolute Dark II** — dodge large frontal cone AoE at random player
 - ![](/assets/icons/role-tank.png) **Twisted Touch** — tank buster
 - **Necromancy** — avoid black puddles, kite zombies
-  - **Necroburst** — avoid explosion AoE from zombies' bodies
-  - Next cast, zombies will charge and stun players
-  - Spread to avoid splash damage on party members
+    - **Necroburst** — avoid explosion AoE from zombies' bodies
+    - Next cast, zombies will charge and stun players
+    - Spread to avoid splash damage on party members
 - ![](/assets/icons/role-healer.png) **Chaos Storm** — party damage
 - **Dark Deluge** — dodge circular AoEs
 
@@ -41,8 +41,8 @@ Dodge AoEs. Purple markers will mirror boss' AoE.
 - **Wild Angush** — stack on marked player to split damage
 - **Wild Rage** — knock back from blue circular AoE, leaves behind crater
 - Red marked players spread to avoid splash damage on party members
-  - Stay near your own Rubble
-  - Split damage with your Rubble for following Wild Angusih
+    - Stay near your own Rubble
+    - Split damage with your Rubble for following Wild Angusih
 - **Wild Rampage** — platform AoE, avoid by dipping into a crater
-  - Red circle marker above head = safe
+    - Red circle marker above head = safe
 - **Raging Slice** — dodge frontal column AoE

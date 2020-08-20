@@ -28,9 +28,9 @@
 - **The Patient Blade** — half-platform AoE from boss
 - *The wind shifts!* — dodge column AoE through boss
 - Kill adds
-  - Avoid green orbs and fiery lines between tornadoes
-  - Dodge circular AoEs
-  - **Reaper's Gale** —  move away from proximity AoE from last tornado
+    - Avoid green orbs and fiery lines between tornadoes
+    - Dodge circular AoEs
+    - **Reaper's Gale** —  move away from proximity AoE from last tornado
 
 ### Genbu
 
@@ -38,8 +38,8 @@
 - **Hell of Water** — dodge cardinal AoE from boss
 - **Hell of Waste** — spread for circular AoE on player
 - **Sinister Tide**
-  - tiles on floor will have arrows that a blue orb will follow
-  - move out of arrow path to avoid being hit
+    - tiles on floor will have arrows that a blue orb will follow
+    - move out of arrow path to avoid being hit
 - **Genbu's Focus**
-  - Destroy the Chelonian Gate before duty gauge fills
-  - Avoid glowing orange tiles
+    - Destroy the Chelonian Gate before duty gauge fills
+    - Avoid glowing orange tiles

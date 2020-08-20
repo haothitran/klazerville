@@ -23,7 +23,7 @@ Some attacks are not telegraphed. Observe boss animations to determine next mech
 - **Piercing Glower** — dodge frontal column AoE at random player
 - **Eye of the Beholder** — collapse into melee range for large 270-degree frontal cleave
 - **1000-tonze Swing** — arena AoE, move into shield
-  - Interact with Mammet Activator to put up shield around Admirer Mammet #022A
+    - Interact with Mammet Activator to put up shield around Admirer Mammet #022A
 
 ### Catoblepas
 
@@ -38,11 +38,11 @@ Look out for emote for when boss' eyes changes colour for phase changes.
 ### Mumuepo the Beholden
 
 - Phase 1
-  - Kill adds — healer > dps > tank
-  - Dodge various AoE patterns
+    - Kill adds — healer > dps > tank
+    - Dodge various AoE patterns
 - Phase 2
-  - Kill Mumeupo > Narashimha
-  - Interact with **Thal's Sceptor** to free chained party members
-  - **Fireball** — dodge circular AoE on random player
-  - **Heat Breath** — dodge frontal cone AoE
-  - **Tail Smash** — dodge rear cone AoE
+    - Kill Mumeupo > Narashimha
+    - Interact with **Thal's Sceptor** to free chained party members
+    - **Fireball** — dodge circular AoE on random player
+    - **Heat Breath** — dodge frontal cone AoE
+    - **Tail Smash** — dodge rear cone AoE

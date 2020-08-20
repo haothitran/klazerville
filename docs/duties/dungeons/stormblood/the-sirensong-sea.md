@@ -18,11 +18,11 @@
 - **Amorphous Applause** — dodge half-platform AoE
 - **Hydroball** — stack on marked player to split damage
 - **Sea Swallows All** > **Concussive Oscillation**
-  - When boss pulls players in, be ready to run out to avoid point blank AoE
-  - Run back to boss to dodge next Amorphous Applause
+    - When boss pulls players in, be ready to run out to avoid point blank AoE
+    - Run back to boss to dodge next Amorphous Applause
 - **Overtow** > **Hydroball**
-  - All players pushed to arena edge
-  - Run back to center to split Hydroball damage
+    - All players pushed to arena edge
+    - Run back to center to split Hydroball damage
 
 ### The Governor
 
@@ -34,8 +34,8 @@
 
 - ![](/assets/icons/role-tank.png) **Headbutt** — tank buster
 - **Virgin Tears** — avoid puddles
-- **Morbid Advance/Tears** — force all players to take several steps in the direction they are facing (not a push/pull to boss!)
-  - Advance = forward
-  - Tears = backwards
+- **Morbid Advance/Retreat** — force all players to take several steps in the direction they are facing (not a push/pull to boss!)
+    - Advance = forward
+    - Tears = backwards
 - ![](/assets/icons/role-healer.png) **Somber Melody** — party damage
 - **Void Water III** — dodge circular AoE on random player

@@ -19,8 +19,8 @@
 - **Venomous Breath** — dodge frontal cone AoE
 - **Meteor Rain** — spread to avoid splash damage on party members
 - **The Final Sky**
-  - First, use boulders to LoS boss
-  - Then, run to narrow safe zone for platform AoE
+    - First, use boulders to LoS boss
+    - Then, run to narrow safe zone for platform AoE
 - **Earthquake** — point blank AoE on boss
 - **The Burning Sky** — spread to avoid splash damage on party members
 
@@ -37,5 +37,5 @@
 - **Apokalypsis** — platform AoE with small safe zones on sides
 - **Therion Charge** — proximity AoE on boss
 - **Deathly Ray** — dodge multiple column AoEs from boss or heads on sides of platform
-  - No indicator for where first blast will hit
-  - ![](/assets/icons/role-healer.png) Keep party healthy to survive first blast hit
+    - No indicator for where first blast will hit
+    - ![](/assets/icons/role-healer.png) Keep party healthy to survive first blast hit

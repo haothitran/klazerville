@@ -24,21 +24,21 @@
 ### Bardam
 
 - Cannot DPS boss like usual boss encounters
-  - Players have to successfully dodge mechanics
-  - At least one player must survive each round of mechanics
-  - If all players fail mechanics, entire party is forced to repeat encounter
+    - Players have to successfully dodge mechanics
+    - At least one player must survive each round of mechanics
+    - If all players fail mechanics, entire party is forced to repeat encounter
 - Phase 1
-  - Dodge various AoEs
-  - **Empty Gaze** — look away from Golem
+    - Dodge various AoEs
+    - **Empty Gaze** — look away from Golem
 - Phase 2
-  - Stand in pillars
-  - Dodge trailing circular AoEs on all party members
-  - **Heavy Strike** — dodge 270-degree frontal cone AoE from Golem
-  - **Star Fall** — dodge circular AoEs
+    - Stand in pillars
+    - Dodge trailing circular AoEs on all party members
+    - **Heavy Strike** — dodge 270-degree frontal cone AoE from Golem
+    - **Star Fall** — dodge circular AoEs
 - Phase 3
-  - Dodge various AoEs
-  - **Looming Shadow** — use last rock to LoS meteor
-  - Tip: after pull in, stand near Warrior add and wait for ring AoE to hit, then move through Warrior to safe outer ring, and finally hide behind last standing rock
+    - Dodge various AoEs
+    - **Looming Shadow** — use last rock to LoS meteor
+    - Tip: after pull in, stand near Warrior add and wait for ring AoE to hit, then move through Warrior to safe outer ring, and finally hide behind last standing rock
 
 ### Yol
 

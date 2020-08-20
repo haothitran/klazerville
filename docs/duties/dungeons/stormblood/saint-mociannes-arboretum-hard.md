@@ -27,8 +27,8 @@
 - ![](/assets/icons/role-tank.png) **Stone II** — tank buster
 - ![](/assets/icons/role-healer.png) **Tectonics** — party damage
 - **Landslip** — position to be moved into safe zone when cast completes
-  - Golems around edge of platform will do a frontal column AoE
-  - Moves players about halfway across platform
+    - Golems around edge of platform will do a frontal column AoE
+    - Moves players about halfway across platform
 - **Earthquake** — point blank AoE, then ring AoE
 - **Earth Shaker** — dodge column AoE at marked players (not telegraphed)
 - **Empty Gaze** — look away from boss to avoid Hysteria debuff
@@ -41,7 +41,7 @@ Stand on circle plates for safety. Push add out of boss' AoEs.
 - **Quickmire** — stand on circle plates to avoid platform AoE
 - **Quagmire** — marked players drop puddles, do not drop on circle plates
 - **Mud Pie** — push Mud Slime add on to circle plate
-  - Grows bigger if hit by any of boss' abilities
-  - ![](/assets/icons/role-healer.png) Eventually will explode for damage based on size
+    - Grows bigger if hit by any of boss' abilities
+    - ![](/assets/icons/role-healer.png) Eventually will explode for damage based on size
 - **Feculent Flood** — frontal cone AoE at Mud Slime, push add out of the way
 - **Bog Bequest** — collapse into melee range for ring AoE around outer platform

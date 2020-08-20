@@ -18,8 +18,8 @@ At the start, hug left wall to avoid most of the trash to first boss.
 
 - ![](/assets/icons/role-tank.png) **Hundred Lashings** — frontal cleave
 - **Gold Rush** — applies stacking Gold Lung debuff on all players
-  - Interact with Morbol Fruit around arena to remove debuff
-  - Recommended to cleanse at 2+ stacks
+    - Interact with Morbol Fruit around arena to remove debuff
+    - Recommended to cleanse at 2+ stacks
 - **Gold Dust** — dodge circular AoE on random players
 
 ### Coincounter
@@ -35,5 +35,5 @@ At the start, hug left wall to avoid most of the trash to first boss.
 - Interact with Morbol Fruit around arena to remove Burr debuff (recommended at 2+ stacks)
 - **Vine Probe** — frontal cleave (not telegraphed)
 - **Bad Breath** — dodge frontal cone AoE
-  - If hit, interact with Morbol Fruit to remove debuffs
+    - If hit, interact with Morbol Fruit to remove debuffs
 - ![](/assets/icons/role-dps.png) Kill Morbol Fruit adds before they apply more stacks of Burr debuff

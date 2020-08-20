@@ -17,8 +17,8 @@
 
 - **Wind Blast** — frontal column AoE at random player
 - Kill Floating Turret
-  - **Hot Air** — party damage and knock up when Turret is killed
-  - Position underneath boss to knock him down
+    - **Hot Air** — party damage and knock up when Turret is killed
+    - Position underneath boss to knock him down
 
 ### Dotoli Ciloc
 

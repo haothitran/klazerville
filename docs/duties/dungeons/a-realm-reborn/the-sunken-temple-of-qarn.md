@@ -13,9 +13,9 @@
 ### Trash
 
 - ![](/assets/icons/role-dps.png) Kill Temple Bees before they cast Final Sting (or interrupt cast)
-  - ![](/assets/icons/role-healer.png) Final Sting — deals 75% maximum health damage to target
+    - ![](/assets/icons/role-healer.png) Final Sting — deals 75% maximum health damage to target
 - ![](/assets/icons/role-tank.png) Position Avoirdupois on tiles before they are killed to open doors throughout dungeon
-  - If you fail, they will revive for you to try again
+    - If you fail, they will revive for you to try again
 
 ### Scales of Judgment
 
@@ -36,7 +36,7 @@ Answering correctly rewards party with extra treasure coffers, otherwise more tr
 ### Teratotaur
 
 - ![](/assets/icons/role-dps.png) Kill adds before they cast Final Sting (or interrupt cast)
-  - ![](/assets/icons/role-healer.png) **Final Sting** — deals 90% maximum health damage to target
+    - ![](/assets/icons/role-healer.png) **Final Sting** — deals 90% maximum health damage to target
 - **Mortal Ray** — remove Doom debuff by stepping on glowing orange tile
 - **Mow** — dodge frontal cone AoE
 - **Frightful Roar** — point blank AoE on boss
@@ -52,8 +52,8 @@ Answering correctly rewards party with extra treasure coffers, otherwise more tr
 - ![](/assets/icons/role-tank.png) **Sun Juror** — position and kill on tiles
 - **Darkness** — dodge frontal cone AoE
 - **Mythril Verge**
-  - **Verge Line** — dodge column AoEs
-  - ![](/assets/icons/role-dps.png) Enter black square zones and kill adds before they finish casting Verge Pulse
-  - ![](/assets/icons/role-healer.png) **Verge Pulse** — party damage
+    - **Verge Line** — dodge column AoEs
+    - ![](/assets/icons/role-dps.png) Enter black square zones and kill adds before they finish casting Verge Pulse
+    - ![](/assets/icons/role-healer.png) **Verge Pulse** — party damage
 - ![](/assets/icons/role-healer.png) **Creeping Darkness** — party damage
 - ![](/assets/icons/role-healer.png) Use Esuna to remove Paralyze debuff from party members

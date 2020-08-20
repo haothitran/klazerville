@@ -18,7 +18,7 @@ Destroy Fleshy Pods using ranged abilities to avoid death explosion.
 ### Coeurl O'Nine Tails
 
 - Applies Poison debuff to nearby players
-  - ![](/assets/icons/role-healer.png) Use Esuna to remove Poison debuff from party members
+    - ![](/assets/icons/role-healer.png) Use Esuna to remove Poison debuff from party members
 - Kill adds
 
 ### Graffias

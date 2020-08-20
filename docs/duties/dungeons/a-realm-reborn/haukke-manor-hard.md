@@ -27,6 +27,6 @@
 - **Dark Mist** — point blank AoE on boss
 - **Void Fire IV** — dodge circular AoE on random player
 - ![](/assets/icons/role-dps.png) Kill waves of adds before boss absorbs them
-  - ![](/assets/icons/role-healer.png) **Blood Rain** — party damage based on health of add when absorbed by boss
+    - ![](/assets/icons/role-healer.png) **Blood Rain** — party damage based on health of add when absorbed by boss
 - **Beguiling Mist** — all players are Seduced and lose control for a short time
-  - Spread during cast to avoid splash damage from following Void Fire IV
+    - Spread during cast to avoid splash damage from following Void Fire IV

@@ -39,5 +39,5 @@
 - **Rhalgr's Piece** — move away from proximity AoE to avoid excess damage
 - **Rose of Destruction** — stack on marked player to split damage
 - ![](/assets/icons/role-healer.png) **Furious Fist**
-  - Collect orbs to reduce incoming party damage at end of cast
-  - Pulsing party damage, then larger final blast
+    - Collect orbs to reduce incoming party damage at end of cast
+    - Pulsing party damage, then larger final blast

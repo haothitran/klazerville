@@ -21,16 +21,16 @@
 
 - **Flamethrower** — dodge frontal cone AoE
 - Periodically fixates players and leaves behind trail of fire puddles
-  - Bait around edge of platform to avoid fire puddles taking up too much space
+    - Bait around edge of platform to avoid fire puddles taking up too much space
 - Kill adds
 
 ### Midgardsormr
 
 - Dodge various AoEs
 - ![](/assets/icons/role-tank.png) Tank
-  - Orange dragon = take far from boss
-  - Blue dragon = keep close to boss
-  - Face dragons away from shield generator
+    - Orange dragon = take far from boss
+    - Blue dragon = keep close to boss
+    - Face dragons away from shield generator
 - Kill add, drops Magitek Field Generator
 - **Animadversion** — interact with Magitek Field Generator to create shield barrier
 - **Antipathy** — targeted player drop growing circular AoE far away from party

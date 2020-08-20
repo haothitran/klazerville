@@ -17,8 +17,8 @@
 
 - ![](/assets/icons/role-tank.png) **Fetid Fang** — tank buster
 - **Scrutiny** — arena AoE, move to small safe zone
-  - Roulette arrow under boss will spin, then stops for cone AoE
-  - Arrow will slow 180-degrees from where it will hit
+    - Roulette arrow under boss will spin, then stops for cone AoE
+    - Arrow will slow 180-degrees from where it will hit
 - **Luminous Ray** — frontal column AoE at random player (not telegraphed)
 - ![](/assets/icons/role-healer.png) **Inscrutability** — party damage, applies Bleed debuff
 - ![](/assets/icons/role-dps.png) Kill original boss > then clone
@@ -32,7 +32,7 @@
 - **2,000-mina Swing** — point blank AoE on boss
 - **2,090-mina Swipe** — dodge frontal cone AoE
 - **Terrible Hammer/Blade** — tiles will explode in order boss casted these two abilities
-  - For example, if boss casted Terrible Hammer first, hammer tiles will explode first
+    - For example, if boss casted Terrible Hammer first, hammer tiles will explode first
 - **Raging Glower** — frontal column AoE at random player
 - **Open Hearth** — stack on marked player to split damage
 - **Wanderer's Pyre** — spread to avoid splash damage on party members
@@ -47,7 +47,7 @@ Don't get slapped. Stand on bubbling grates to prevent add spawn.
 - **Falling Water** — spread to avoid splash damage on party members
 - **Rising Tide** — dodge cardinal AoE on boss
 - **Unnatural Ripples**
-  - Stand on bubbling grates to prevent add spawn
-  - If hand is in front of grate, add will be killed by hand slam
+    - Stand on bubbling grates to prevent add spawn
+    - If hand is in front of grate, add will be killed by hand slam
 - **Flying Fount** — stack on marked player to split damage
 - **Command Current** — dodge cone AoEs from boss

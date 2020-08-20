@@ -29,6 +29,6 @@
 
 - Marked players will drop void orb, do not drop on plates on floor
 - **Void Call** — plates on the floor light up and need to be stepped on to disable
-  - Number of lights indicates how many simultaneous players are needed on the plate
+    - Number of lights indicates how many simultaneous players are needed on the plate
 - **Deep Darkness** — collapse into inner platform for ring AoE around outer platform
 - **Magic Burst** — circular AoE on inner platform

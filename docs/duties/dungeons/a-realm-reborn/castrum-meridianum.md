@@ -18,13 +18,13 @@
 ### The Black Eft
 
 - ![](/assets/icons/role-tank.png) Tanks — one on boss, one on adds spawning at doors
-  - Bring adds to boss for AoE
+    - Bring adds to boss for AoE
 - Dodge various AoEs
 
 ### Magitek Vanguard F-I
 
 - ![](/assets/icons/role-tank.png) Tanks — one on boss, one on adds
-  - Bring to boss for AoE
+    - Bring to boss for AoE
 - Dodge various AoEs
 
 ### Magitek Colossus Rubricatus
