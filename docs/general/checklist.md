@@ -75,6 +75,18 @@
     - Pick up a journal from Khloe Aliapoh in Idyllshire (x6, y6) to fill out each week.
     - Remember to use your Second Chance points to increase your odds of getting 3 lines for maximum rewards.
 - **Custom Deliveries** — limit of 6 per NPC, total limit of 12 per week
+
+??? info "Locations"
+    - Heavensward
+        - Zhloe Aliapoh — Idyllshire (x4, y6)
+    - Stormblood
+        - M’Naago – Rhalgr’s Reach (x14, y9)
+        - Kurenai – The Ruby Sea (x28, y15)
+        - Adkiragh – Idyllshire (x4, y6)
+    - Shadowbringers
+        - Kai-Shirr – Eulmore, The Canopy (x12, y9)
+        - Ehll Tou – The Firmament (x13, y11)
+
 - **Hunts** — elite marks
 
 ??? info "Locations"
