@@ -46,7 +46,7 @@ Note that all classes and jobs can be leveled on one character.
 | Dark Knight | War         | Greatsword            | Plate   | Fending  | Ishgard       |
 | Gunbreaker  | War         | Gunblade              | Plate   | Fending  | Gridania      |
 | Scholar     | Magic       | Book                  | Cloth   | Healing  | Limsa Lominsa |
-| White Mage  | Magic       | Canes, Wand/Shield    | Cloth   | Healing  | Gridania      |
+| White Mage  | Magic       | Cane, Wand/Shield     | Cloth   | Healing  | Gridania      |
 | Astrologian | Magic       | Star Globe            | Cloth   | Healing  | Ishgard       |
 | Dragoon     | War         | Polearm               | Plate   | Maiming  | Gridania      |
 | Monk        | War         | Fist weapons          | Leather | Striking | Ul'dah        |
@@ -58,4 +58,4 @@ Note that all classes and jobs can be leveled on one character.
 | Black Mage  | Magic       | Staff, Scepter/Shield | Cloth   | Casting  | Ul'dah        |
 | Summoner    | Magic       | Book                  | Cloth   | Casting  | Limsa Lominsa |
 | Red Mage    | Magic       | Rapier                | Cloth   | Casting  | Ul'dah        |
-| Blue Mage   | Magic       | Canes                 | Cloth   | Casting  | Limsa Lominsa |
+| Blue Mage   | Magic       | Cane                  | Cloth   | Casting  | Limsa Lominsa |
