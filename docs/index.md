@@ -1,7 +1,4 @@
-
-# Klazerville
-
-This repository contains the source files for [klazerville.com](https://klazerville.com).
+# Welcome
 
 A reference guide for various aspects of Final Fantasy XIV.
 

@@ -1,0 +1,38 @@
+site_name: Klazerville
+site_description: A reference guide for various aspects of Final Fantasy XIV.
+site_url: https://klazerville.com/
+
+nav:
+  - Home: index.md
+  - General:
+    - Checklist: general/checklist.md
+    - Jobs: general/jobs.md
+    - Gathering and Crafting: general/gathering-and-crafting.md
+  - Duties:
+    - Dungeons: duties/dungeons.md
+    - Trials: duties/trials.md
+    - Raids: duties/raids.md
+
+theme:
+  favicon: assets/favicon.ico
+  icon:
+    logo: material/flash
+
+  name: material
+  palette:
+    scheme: slate
+    primary: pink
+    accent: lime
+
+markdown_extensions:
+  - toc:
+      permalink: ⚓︎
+  - admonition
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/haothitran/klazerville
+
+copyright: >-
+  Game content and materials are trademarks and copyrights of Square Enix Co., Ltd.
