@@ -30,3 +30,5 @@ After completing the quest, you will be able to break down any item that is desy
 ![](/assets/images/crafting-desynthesis-item.png)
 
 Breaking down items through desynthesis will yield materials used to create that item. However, you may also receive items that are obtainable only through desynthesis. The higher your desynthesis skill, the higher chance of receiving these special items.
+
+![](/assets/images/crafting-desynthesis-successful.png)
