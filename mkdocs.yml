@@ -4,9 +4,8 @@ site_url: https://klazerville.com/
 
 nav:
   - Home: index.md
-  - General:
-    - Checklist: general/checklist.md
-    - Jobs: general/jobs.md
+  - Checklist: checklist.md
+  - Jobs: jobs.md
   - Gathering:
     - Overview: gathering/overview.md
     - Botanist: gathering/botanist.md
