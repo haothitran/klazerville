@@ -16,7 +16,7 @@ nav:
 theme:
   favicon: assets/favicon.ico
   icon:
-    logo: material/flash
+    logo: material/crown
 
   name: material
   palette:
