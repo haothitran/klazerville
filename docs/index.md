@@ -2,4 +2,5 @@
 
 A reference guide for various aspects of Final Fantasy XIV.
 
-This site is a continuous work in progress.
+!!! warning "Work in progress"
+    This site is a continuous work in progress. There may be some missing pages. There may be some empty pages.
