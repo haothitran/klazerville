@@ -23,6 +23,7 @@ theme:
     scheme: slate
     primary: pink
     accent: lime
+  custom_dir: overrides
 
 markdown_extensions:
   - toc:
@@ -36,4 +37,5 @@ extra:
       link: https://github.com/haothitran/klazerville
 
 copyright: >-
-  Game content and materials are trademarks and copyrights of Square Enix Co., Ltd.
+  Game content and materials are trademarks and copyrights of Square Enix Co., Ltd.<br>
+  To report site problems or suggestions, <a href="https://github.com/haothitran/klazerville/issues">open an issue</a> or contact Klaz#6060 on Discord.
