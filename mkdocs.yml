@@ -20,10 +20,11 @@ theme:
 
   name: material
   palette:
-    scheme: slate
-    primary: pink
-    accent: lime
+    scheme: klaz
   custom_dir: overrides
+
+extra_css:
+- assets/style.css
 
 markdown_extensions:
   - toc:
