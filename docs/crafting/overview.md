@@ -1,22 +1,4 @@
-# Gathering and Crafting
-
-## Gathering
-
-Gathering classes, also known as *Disciples of the Land* (DoL), harvest natural resources.
-
-| Classes  | Starting Zone |
-|----------|---------------|
-| Botanist | Gridania      |
-| Fisher   | Limsa Lominsa |
-| Miner    | Ul'dah        |
-
-### Attributes
-
-- Gathering — affects the rate in which items are gathered
-- Perception — affects the rate at which high-quality items are gathered
-- Gathering Points (GP) — used for gathering abilities
-
-## Crafting
+# Overview of Crafting Classes
 
 Crafting classes, also known as *Disciples of the Hand* (DoH), create, repair, meld, and/or desynthesize items.
 
@@ -31,13 +13,13 @@ Crafting classes, also known as *Disciples of the Hand* (DoH), create, repair, m
 | Leatherworker | Gridania      |
 | Weaver        | Ul'dah        |
 
-### Attributes
+## Attributes
 
 - Craftmanship — affects the amount of progress achieved in a single synthesis step
 - Control — affects the amount of quality improved in a single synthesis step
 - Crafting Points (CP) — used for crafting abilities
 
-### Desynthesis
+## Desynthesis
 
 Once a crafting class reaches level 30, you will be to speak to Syntgoht at Ul'dah: Steps of Thal (x14, y10) to pick up the quest [Gone to Pieces](https://na.finalfantasyxiv.com/lodestone/playguide/db/quest/b507ad2d3bb/). This will teach you the Desynthesis skill.
 

@@ -7,7 +7,21 @@ nav:
   - General:
     - Checklist: general/checklist.md
     - Jobs: general/jobs.md
-    - Gathering and Crafting: general/gathering-and-crafting.md
+  - Gathering:
+    - Overview: gathering/overview.md
+    - Botanist: gathering/botanist.md
+    - Fisher: gathering/fisher.md
+    - Miner: gathering/miner.md
+  - Crafting:
+    - Overview: crafting/overview.md
+    - Alchemist: crafting/alchemist.md
+    - Armorer: crafting/armorer.md
+    - Blacksmith: crafting/blacksmith.md
+    - Carpenter: crafting/carpenter.md
+    - Culinarian: crafting/culinarian.md
+    - Goldsmith: crafting/goldsmith.md
+    - Leatherworker: crafting/leatherworker.md
+    - Weaver: crafting/weaver.md
   - Duties:
     - Dungeons: duties/dungeons.md
     - Trials: duties/trials.md
