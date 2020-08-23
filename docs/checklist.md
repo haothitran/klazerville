@@ -7,9 +7,11 @@
 ??? question "What is spiritbond?"
     Once a piece of gear reaches 100% spiritbond, free materia can be extracted from it which will reduce its spiritbond back to 1% to refill. Gain spiritbond from defeating enemies, gathering items, and crafting items.
 
+    You will be notified by text in the chat frame when an item reaches 100% spiritbond. It is also indicated by a white dot on the Inventory Grid for the gear slot.
+
     ![](/assets/images/checklist-spiritbond.png)
 
-    You will be notified by text in the chat frame when an item reaches 100% spiritbond. It is also indicated by a white dot on the Inventory Grid for the gear slot.
+    Be sure to extract your free materia!
 
 - Duplicate Triple Triad Cards can be turned in at the Gold Saucer for MGP.
     - Find the Triple Triad Trader (x5, y6.5) or (x4.1, y7.4) in the blue zone of the map.
