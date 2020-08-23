@@ -33,8 +33,9 @@ theme:
 
   name: material
   palette:
-    scheme: klaz
-  custom_dir: overrides
+    scheme: default
+    primary: deep purple
+    accent: pink
 
 extra_css:
 - assets/style.css
