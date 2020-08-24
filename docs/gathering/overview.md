@@ -2,11 +2,11 @@
 
 Gathering classes, also known as *Disciples of the Land* (DoL), harvest natural resources.
 
-| Classes  | Starting Zone |
-|----------|---------------|
-| Botanist | Gridania      |
-| Fisher   | Limsa Lominsa |
-| Miner    | Ul'dah        |
+| Classes  | Code | Starting Zone |
+|----------|------|---------------|
+| Botanist | BTN  | Gridania      |
+| Fisher   | FSH  | Limsa Lominsa |
+| Miner    | MIN  | Ul'dah        |
 
 ## Attributes
 

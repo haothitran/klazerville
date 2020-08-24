@@ -2,16 +2,16 @@
 
 Crafting classes, also known as *Disciples of the Hand* (DoH), create, repair, meld, and/or desynthesize items.
 
-| Classes       | Starting Zone |
-|---------------|---------------|
-| Alchemist     | Ul'dah        |
-| Armorer       | Limsa Lominsa |
-| Blacksmith    | Limsa Lominsa |
-| Carpenter     | Gridania      |
-| Culinarian    | Limsa Lominsa |
-| Goldsmith     | Ul'dah        |
-| Leatherworker | Gridania      |
-| Weaver        | Ul'dah        |
+| Classes       | Code | Starting Zone |
+|---------------|------|---------------|
+| Alchemist     | ALC  | Ul'dah        |
+| Armorer       | ARM  | Limsa Lominsa |
+| Blacksmith    | BSM  | Limsa Lominsa |
+| Carpenter     | CRP  | Gridania      |
+| Culinarian    | CUL  | Limsa Lominsa |
+| Goldsmith     | GSM  | Ul'dah        |
+| Leatherworker | LTW  | Gridania      |
+| Weaver        | WVR  | Ul'dah        |
 
 ## Attributes
 
