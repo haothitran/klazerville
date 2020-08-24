@@ -13,3 +13,11 @@ Gathering classes, also known as *Disciples of the Land* (DoL), harvest natural 
 - Gathering — affects the rate in which items are gathered
 - Perception — affects the rate at which high-quality items are gathered
 - Gathering Points (GP) — used for gathering abilities
+
+## Relation to Crafters
+
+Every crafting class requires resources gathered from every gathering class. However, crafting classes rely primarily on certain gathering classes.
+
+- Botanists mainly supports Alchemists, Carpenters, Culinarians, Weavers.
+- Fishers mainly support Culinarians.
+- Miners mainly support Armorers, Blacksmiths, Goldsmiths, Leatherworkers.
