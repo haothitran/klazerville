@@ -36,9 +36,7 @@ theme:
     scheme: default
     primary: deep purple
     accent: pink
-
-extra_css:
-- assets/style.css
+  custom_dir: overrides
 
 markdown_extensions:
   - toc:
