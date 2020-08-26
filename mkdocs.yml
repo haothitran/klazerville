@@ -43,6 +43,8 @@ markdown_extensions:
       permalink: ⚓︎
   - admonition
   - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed
 
 extra:
   social:
