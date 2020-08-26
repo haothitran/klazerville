@@ -9,9 +9,11 @@
 
     You will be notified by text in the chat frame when an item reaches 100% spiritbond. It is also indicated by a white dot on the Inventory Grid for the gear slot.
 
-    ![](/assets/images/checklist-spiritbond.png)
+    ![](/assets/images/checklist-spiritbond-inventory-grid.png)
 
-    Be sure to extract your free materia!
+    Be sure to extract your free materia be right-clicking on the item, then selecting `Extract Materia`.
+
+    ![](/assets/images/checklist-spiritbond-extract-materia.png)
 
 - Duplicate Triple Triad Cards can be turned in at the Gold Saucer for MGP.
     - Find the Triple Triad Trader (x5, y6.5) or (x4.1, y7.4) in the blue zone of the map.
