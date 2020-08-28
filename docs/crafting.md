@@ -15,9 +15,9 @@ Crafting classes, also known as *Disciples of the Hand* (DoH), create, repair, m
 
 ## Attributes
 
-- Craftmanship — affects the amount of progress achieved in a single synthesis step
-- Control — affects the amount of quality improved in a single synthesis step
-- Crafting Points (CP) — used for crafting abilities
+- **Craftmanship** — affects the amount of progress achieved in a single synthesis step
+- **Control** — affects the amount of quality improved in a single synthesis step
+- Crafting Points (**CP**) — used for crafting abilities
 
 ## Desynthesis
 
