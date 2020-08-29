@@ -1,8 +1,10 @@
 # Jobs
 
-Base classes will evolve into their respective jobs at level 30. New jobs introduced in expansions do not have a base class and will start at a higher base level.
+Base classes will evolve into their respective jobs at level 30.
 
-Note that all classes and jobs can be leveled on one character.
+New jobs introduced in expansions do not have a base class and will start at a higher level. However, these jobs have some prerequisites that players need to fulfill before they can switch to them.
+
+All classes and jobs can be leveled on one character.
 
 ## General Information
 
@@ -33,9 +35,19 @@ Note that all classes and jobs can be leveled on one character.
 
 ### Jobs from Expansions
 
-- Heavensward — [Dark Knight](https://na.finalfantasyxiv.com/lodestone/playguide/db/quest/92c86ebbdc7/) (30), [Astrologian](https://na.finalfantasyxiv.com/lodestone/playguide/db/quest/6b00e8264b7/) (30), [Machinist](https://na.finalfantasyxiv.com/lodestone/playguide/db/quest/8b4a18330a8/) (30), [Blue Mage](https://na.finalfantasyxiv.com/lodestone/playguide/db/quest/667c7f49a11/) (1)
-- Stormblood — [Samurai](https://na.finalfantasyxiv.com/lodestone/playguide/db/quest/6b274c524ae/) (50), [Red Mage](https://na.finalfantasyxiv.com/lodestone/playguide/db/quest/3870f2d3cf2/) (50)
-- Shadowbringers — [Gunbreaker](https://na.finalfantasyxiv.com/lodestone/playguide/db/quest/e3f6c6209c3/) (60), [Dancer](https://na.finalfantasyxiv.com/lodestone/playguide/db/quest/1b1d77bef99/) (60)
+New jobs released in expansions requires the player to have progressed through the Main Story Quests (MSQ) up to the expansion they were released in, and reach the required minimum level as another job. You will then be able to speak to the job's initial quest giver in its starting city.
+
+- **Heavensward** — Requires level 50 Disciple of War/Magic
+    - [Dark Knight](https://na.finalfantasyxiv.com/lodestone/playguide/db/quest/92c86ebbdc7/) (30)
+    - [Astrologian](https://na.finalfantasyxiv.com/lodestone/playguide/db/quest/6b00e8264b7/) (30)
+    - [Machinist](https://na.finalfantasyxiv.com/lodestone/playguide/db/quest/8b4a18330a8/) (30)
+    - [Blue Mage](https://na.finalfantasyxiv.com/lodestone/playguide/db/quest/667c7f49a11/) (1)
+- **Stormblood** — Requires level 50 Disciple of War/Magic
+    - [Samurai](https://na.finalfantasyxiv.com/lodestone/playguide/db/quest/6b274c524ae/) (50)
+    - [Red Mage](https://na.finalfantasyxiv.com/lodestone/playguide/db/quest/3870f2d3cf2/) (50)
+- **Shadowbringers** — Requires level 60 Disciple of War/Magic
+    - [Gunbreaker](https://na.finalfantasyxiv.com/lodestone/playguide/db/quest/e3f6c6209c3/) (60)
+    - [Dancer](https://na.finalfantasyxiv.com/lodestone/playguide/db/quest/1b1d77bef99/) (60)
 
 ## Weapons and Armor
 
