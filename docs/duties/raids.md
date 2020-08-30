@@ -5,6 +5,8 @@ This is not intended to be an all-encompassing, detailed guide for every raid, b
 !!! warning "Work in progress"
     Raid pages are currently a work in progress. There may be some missing pages.
 
+[Looking for alliance raid pages?](/duties/alliance-raids/)
+
 ## A Realm Reborn
 
 ### Normal
@@ -20,14 +22,6 @@ This is not intended to be an all-encompassing, detailed guide for every raid, b
 | Name                       | 1      | 2      | 3      | 4      |
 |----------------------------|--------|--------|--------|--------|
 | The Second Coil of Bahamut | [Turn 1](/duties/raids/a-realm-reborn/savage/the-second-coil-of-bahamut-turn-1) | [Turn 2](/duties/raids/a-realm-reborn/savage/the-second-coil-of-bahamut-turn-2) | [Turn 3](/duties/raids/a-realm-reborn/savage/the-second-coil-of-bahamut-turn-3) | [Turn 4](/duties/raids/a-realm-reborn/savage/the-second-coil-of-bahamut-turn-4) |                                                                       |
-
-### Alliance
-
-| Name                                                                                         | Item Level Req. | Item Level Loot |
-|----------------------------------------------------------------------------------------------|-----------------|-----------------|
-| [Labyrinth of the Ancients](/duties/raids/a-realm-reborn/alliance/labyrinth-of-the-ancients) | 60              | 80              |
-| [Syrcus Tower](/duties/raids/a-realm-reborn/alliance/syrcus-tower)                           | 70              | 100             |
-| [The World of Darkness](/duties/raids/a-realm-reborn/alliance/the-world-of-darkness)         | 90              | 120             |
 
 ## Heavensward
 
@@ -47,14 +41,6 @@ This is not intended to be an all-encompassing, detailed guide for every raid, b
 | Alexander: Midas *(of the Son)*           | [Fist](/duties/raids/heavensward/savage/alexander-midas-the-fist-of-the-son)           | [Cuff](/duties/raids/heavensward/savage/alexander-midas-the-cuff-of-the-son)               | [Arm](/duties/raids/heavensward/savage/alexander-midas-the-arm-of-the-son)               | [Burden](/duties/raids/heavensward/savage/alexander-midas-the-burden-of-the-son)       |
 | Alexander: The Creator *(of the Creator)* | [Eyes](/duties/raids/heavensward/savage/alexander-the-creator-the-eyes-of-the-creator) | [Breath](/duties/raids/heavensward/savage/alexander-the-creator-the-breath-of-the-creator) | [Heart](/duties/raids/heavensward/savage/alexander-the-creator-the-heart-of-the-creator) | [Soul](/duties/raids/heavensward/savage/alexander-the-creator-the-soul-of-the-creator) |
 
-### Alliance
-
-| Name                                                                                      | Item Level Req. | Item Level Loot |
-|-------------------------------------------------------------------------------------------|-----------------|-----------------|
-| [The Void Ark](/duties/raids/heavensward/alliance/the-void-ark)                           | 175             | 200             |
-| [The Weeping City of Mhach](/duties/raids/heavensward/alliance/the-weeping-city-of-mhach) | 205             | 230             |
-| [Dun Scaith](/duties/raids/heavensward/alliance/dun-scaith)                               | 235             | 260             |
-
 ## Stormblood
 
 ### Normal
@@ -73,19 +59,10 @@ This is not intended to be an all-encompassing, detailed guide for every raid, b
 | Omega: Sigmascape | [V1.0](/duties/raids/stormblood/savage/omega-sigmascape-v1-0) | [V2.0](/duties/raids/stormblood/savage/omega-sigmascape-v2-0) | [V3.0](/duties/raids/stormblood/savage/omega-sigmascape-v3-0) | [V4.0](/duties/raids/stormblood/savage/omega-sigmascape-v4-0) |
 | Omega: Alphascape | [V1.0](/duties/raids/stormblood/savage/omega-alphascape-v1-0) | [V2.0](/duties/raids/stormblood/savage/omega-alphascape-v2-0) | [V3.0](/duties/raids/stormblood/savage/omega-alphascape-v3-0) | [V4.0](/duties/raids/stormblood/savage/omega-alphascape-v4-0) |
 
-
 ### Ultimate
 
 - [The Unending Coil of Bahamut](/duties/raids/stormblood/ultimate/the-unending-coil-of-bahamut)
 - [The Minstrel's Ballad: The Weapon's Refrain](/duties/raids/stormblood/ultimate/the-minstrels-ballad-the-weapons-refrain)
-
-### Alliance
-
-| Name                                                                                           | Item Level Req. | Item Level Loot |
-|------------------------------------------------------------------------------------------------|-----------------|-----------------|
-| [The Royal City of Rabanastre](/duties/raids/stormblood/alliance/the-royal-city-of-rabanastre) | 305             | 330             |
-| [The Ridorana Lighthouse](/duties/raids/stormblood/alliance/the-ridorana-lighthouse)           | 335             | 360             |
-| [The Orbonne Monastery](/duties/raids/stormblood/alliance/the-orbonne-monastery)               | 365             | 390             |
 
 ## Shadowbringers
 
@@ -106,10 +83,3 @@ This is not intended to be an all-encompassing, detailed guide for every raid, b
 ### Ultimate
 
 - [The Epic of Alexander](/duties/raids/shadowbringers/ultimate/the-epic-of-alexander)
-
-### Alliance
-
-| Name                                                                            | Item Level Req. | Item Level Loot |
-|---------------------------------------------------------------------------------|-----------------|-----------------|
-| [The Copied Factory](/duties/raids/shadowbringers/alliance/the-copied-factory)  | 435             | 460             |
-| [The Puppets' Bunker](/duties/raids/shadowbringers/alliance/the-puppets-bunker) | 465             | 490             |

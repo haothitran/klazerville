@@ -12,6 +12,7 @@ nav:
     - Dungeons: duties/dungeons.md
     - Trials: duties/trials.md
     - Raids: duties/raids.md
+    - Alliance Raids: duties/alliance-raids.md
 
 theme:
   favicon: assets/favicon.ico
