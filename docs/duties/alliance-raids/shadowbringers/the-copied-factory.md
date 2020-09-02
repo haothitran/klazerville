@@ -32,12 +32,12 @@ Each alliance will deal with different mechanics.
 
 !!! info "Alliance mechanics"
     === "A"
-    - Do not stand on lit grates
+        - Do not stand on lit grates
     === "B"
-    - Directional conveyor belts
-    - Do not touch edge of platform
+        - Directional conveyor belts
+        - Do not touch edge of platform
     === "C"
-    - Do not stand on lit vents
+        - Do not stand on lit vents
 
 - ![](/assets/icons/role-healer.png) **Laser-Resistance Test** — raid damage
 - **Ring Laser** — shrinking ring AoEs
