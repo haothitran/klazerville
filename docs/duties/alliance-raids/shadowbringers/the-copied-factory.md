@@ -56,7 +56,7 @@ Each alliance will deal with different mechanics.
 - **Marx Smash** — half-platform AoE
     - Raised arm — east/west side of platform
     - Raised both arms high — stand in center
-    - Raised both arms low — stand on east/west sides
+    - Raised both arms low — stand on east/west sides at back
 - ![](/assets/icons/role-tank.png) **Precision Guided Missile** — tank buster on every tank, spread away from raid members
 - **Incendiary Bombing** — marked players move away, drops puddle
 - **Guided Missile** — yellow marked player run from successive AoEs
@@ -65,7 +65,7 @@ Each alliance will deal with different mechanics.
 - Adds
     - Kill adds, seperate them
     - Once adds are dead, move to edge of platform for proximity AoE
-- **Marx Activation** — quadrant AoE from sawblades at edge of platform
+- **Marx Activation** — sawblades at edge of platform, avoid column AoE across platform
 - **Area Bombardment** — dodge AoEs
 - **Incendiary Saturation Bombing** — stand near boss, south side of platform on fire
 - **Marx Crush** — destroy both Arms
