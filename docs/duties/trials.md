@@ -7,6 +7,8 @@ This is not intended to be an all-encompassing, detailed guide for every trial, 
 
 Trials are instanced encounters where players fight a single boss with some intermission phases. Early trials only require a light party of 4 players, while most trials require a full party of 8 players. Players will have to complete normal Trials for main story progression, while High-end Trials are optional, but more difficult, content.
 
+**Difficulty Progression:** Normal > Extreme / Minstrel's Ballads
+
 ## A Realm Reborn
 
 | Trials                                                                                  | Required Level | Average Item Level |
