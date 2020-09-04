@@ -5,6 +5,12 @@ This is not intended to be an all-encompassing, detailed guide for every raid, b
 !!! warning "Work in progress"
     Raid pages are currently a work in progress. There may be some missing pages.
 
+Raids are instanced encounters where players fight a single boss with some intermission phases, much like [Trials](/duties/trials). Raids are released in sets of 4 for each tier and are always optional content.
+
+**Difficulty Progression:** Normal > Savage > Ultimate
+
+However, unlike dungeons or trials, raids that are current tier have loot limitations per week. Once a new tier is released, these loot limitations are removed from older tiers which makes it easier for new or returning players to catch up their gear.
+
 [Looking for alliance raid pages?](/duties/alliance-raids/)
 
 ## A Realm Reborn
