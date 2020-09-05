@@ -2,6 +2,12 @@
 
 This is not intended to be an all-encompassing, detailed guide for every alliance raid, but rather a quick reference on the mechanics of boss encounters.
 
+Alliance raids are instanced encounters where 24 players fight a sequence of trash mobs and bosses, much like a large-scale dungeon.
+
+Furthermore, although alliance raids consist of 24 players, players are further divided into alliance parties A/B/C composed of 8 players (one tank, two healers, five dps). Often, alliance parties have to perform seperate boss mechanics, so it is generally recommended to stick close to your alliance party members.
+
+Alliance raids are released in sets of 3 for each expansion.
+
 ## A Realm Reborn
 
 | Name                                                                                         | Item Level Req. | Item Level Loot |
