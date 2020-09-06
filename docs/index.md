@@ -1,4 +1,4 @@
-# Welcome
+# Klazerville
 
 A reference guide for various aspects of Final Fantasy XIV.
 
