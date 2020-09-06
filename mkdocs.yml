@@ -21,8 +21,8 @@ theme:
 
   name: material
   palette:
-    scheme: default
-    primary: deep purple
+    scheme: slate
+    primary: lime
     accent: pink
   custom_dir: overrides
 
