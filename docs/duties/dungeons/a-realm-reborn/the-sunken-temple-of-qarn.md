@@ -10,50 +10,55 @@
 4. Tip the Scales of Judgment: 0/1
 5. Defeat the adjudicator: 0/1
 
-### Trash
+!!! warning "Notable trash mobs"
+    - ![](/assets/icons/role-dps.png) Kill Temple Bees before they cast Final Sting
+        - ![](/assets/icons/role-healer.png) **Final Sting** — deals 75% maximum health damage to target (interruptible)
+    - ![](/assets/icons/role-tank.png) Position Avoirdupois on glowing orange tiles before they are killed to open doors throughout dungeon
+        - If you fail, they will revive for you to try again
 
-- ![](/assets/icons/role-dps.png) Kill Temple Bees before they cast Final Sting (or interrupt cast)
-    - ![](/assets/icons/role-healer.png) Final Sting — deals 75% maximum health damage to target
-- ![](/assets/icons/role-tank.png) Position Avoirdupois on tiles before they are killed to open doors throughout dungeon
-    - If you fail, they will revive for you to try again
+!!! tip "The Scales of Judgment"
+    Answering correctly rewards party with extra Treasure Coffers, otherwise more trash spawns.
 
-### Scales of Judgment
+    - Left Pan — The Flame of Magic
+    - Right Pan — The Fruit of Knowledge
 
-Answering correctly rewards party with extra treasure coffers, otherwise more trash spawns.
+??? tip "Bonus rooms"
+    Locked doors near the end of the dungeon require specific items to open them.
 
-- The Flame of Magic — Left pan
-- The Fruit of Knowledge — Right pan
+    - The Vault of Steel — The Helm of Might
+    - The Vault of Wealth — The Gem of Affluence
+    - The Vault of Secrets — The Fruit of Knowledge
+    - The Vault of Aether — The Flame of Magic
 
-### Bonus Rooms
-
-- The Vault of Steel — The Helm of Might
-- The Vault of Wealth — The Gem of Affluence
-- The Vault of Secrets — The Fruit of Knowledge
-- The Vault of Aether — The Flame of Magic
+    If you have already balanced the Scales of Judgment, you will not be able to open The Vault of Aether or The Vault of Secrets.
 
 ## Bosses
 
 ### Teratotaur
 
-- ![](/assets/icons/role-dps.png) Kill adds before they cast Final Sting (or interrupt cast)
-    - ![](/assets/icons/role-healer.png) **Final Sting** — deals 90% maximum health damage to target
-- **Mortal Ray** — remove Doom debuff by stepping on glowing orange tile
 - **Mow** — dodge frontal cone AoE
 - **Frightful Roar** — point blank AoE on boss
+- ![](/assets/icons/role-dps.png) Kill adds before they cast Final Sting
+    - ![](/assets/icons/role-healer.png) **Final Sting** — deals 90% maximum health damage to target (interruptible)
+- **Mortal Ray** — remove Doom debuff by stepping on glowing orange tile, or you will instantly die when debuff timer expires (cast is stunnable)
+
+![](/assets/images/duties/the-sunken-temple-of-qarn-teratotaur-mortal-ray.png)
 
 ### Temple Guardian
 
-- ![](/assets/icons/role-dps.png) Destroy **Golum Soulstone** whenever it is exposed
 - Dodge frontal cone/column AoEs
-- Periodically boss will fixate on non-tank players
+- ![](/assets/icons/role-dps.png) Destroy **Golem Soulstone** whenever it is exposed
+
+![](/assets/images/duties/the-sunken-temple-of-qarn-temple-guardian-golem-soulstone.png)
+
+- ![](/assets/icons/role-healer.png) **Obliterate** — party damage
+- ![](/assets/icons/role-healer.png) Periodically boss will fixate on non-tank players
 
 ### Adjudicator
 
-- ![](/assets/icons/role-tank.png) **Sun Juror** — position and kill on tiles
-- **Darkness** — dodge frontal cone AoE
-- **Mythril Verge**
-    - **Verge Line** — dodge column AoEs
-    - ![](/assets/icons/role-dps.png) Enter black square zones and kill adds before they finish casting Verge Pulse
+- ![](/assets/icons/role-tank.png) Position **Sun Jurors** on glowing orange before they are killed
+- Dodge frontal cone/column AoEs
+- ![](/assets/icons/role-dps.png) Enter black square zones and kill adds before they finish casting Verge Pulse
     - ![](/assets/icons/role-healer.png) **Verge Pulse** — party damage
 - ![](/assets/icons/role-healer.png) **Creeping Darkness** — party damage
 - ![](/assets/icons/role-healer.png) Use Esuna to remove Paralyze debuff from party members

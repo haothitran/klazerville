@@ -7,19 +7,21 @@
 1. Breach the Lock: 0/1
 2. Defeat the morbol bed keeper: 0/1
 3. Clear the Coincounter's Chest: 0/1
-4. Defeat the morbol bed keepers: 0/1
+4. Defeat the morbol bed keepers: 0/2
 5. Defeat the Miser's Mistress: 0/1
 
-At the start, hug left wall to avoid most of the trash to first boss.
+At the start of the dungeon, hug the left wall to avoid most of the trash mobs to first boss. Take slow and steady pulls; there are a lot of wandering trash mobs here that can overwhelm your party.
+
+Do not stand in yellow zones or geysers throughout dungeon.
 
 ## Bosses
 
 ### Locksmith
 
-- ![](/assets/icons/role-tank.png) **Hundred Lashings** — frontal cleave
-- **Gold Rush** — applies stacking Gold Lung debuff on all players
-    - Interact with Morbol Fruit around arena to remove debuff
-    - Recommended to cleanse at 2+ stacks
+- ![](/assets/icons/role-tank.png) Frontal cleave
+- ![](/assets/icons/role-healer.png) **Gold Lung** — stacking dot debuff on all players
+    - Interact with **Morbol Fruit** to remove dot debuff
+    - Recommend to cleanse at 2+ stacks of debuff
 - **Gold Dust** — dodge circular AoE on random players
 
 ### Coincounter
@@ -28,12 +30,14 @@ At the start, hug left wall to avoid most of the trash to first boss.
 - **100-tonze Swipe** — dodge frontal cone AoE
 - **100-tonze Swing** — point blank AoE on boss
 - **Glower** — dodge frontal column AoE at random player
-- **Eye of the Beholder** — collapse into melee range for large 270-degree frontal cleave
+- **Eye of the Beholder** — move to melee/max range for 270-degree frontal cleave
 
 ### Miser's Mistress
 
-- Interact with Morbol Fruit around arena to remove Burr debuff (recommended at 2+ stacks)
-- **Vine Probe** — frontal cleave (not telegraphed)
+- ![](/assets/icons/role-tank.png) Frontal cleave
+- **Burr Burrow** — stacking dot debuff on all players
+    - Interact with **Morbol Fruit** to remove dot debuff
+    - Recommend to cleanse at 2+ stacks of debuff
 - **Bad Breath** — dodge frontal cone AoE
-    - If hit, interact with Morbol Fruit to remove debuffs
-- ![](/assets/icons/role-dps.png) Kill Morbol Fruit adds before they apply more stacks of Burr debuff
+    - If hit, interact with **Morbol Fruit** to remove many debuffs
+- ![](/assets/icons/role-dps.png) Kill adds before they apply more stacks of Burr debuff

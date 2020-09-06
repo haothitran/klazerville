@@ -9,21 +9,30 @@
 3. Open the abacination chamber door: 0/1
 4. Defeat Graffias: 0/1
 
-Collect Magitek Photocells (small green orbs) throughout dungeon to be able to activate each boss room. Need four to activate each boss, for a total of eight to complete the dungeon.
+!!! info "Magitek Photocells"
+    Collect Magitek Photocells (small green orbs) throughout dungeon. Need four to activate each Magitek Terminal.
 
-Destroy Fleshy Pods using ranged abilities to avoid death explosion.
+!!! warning "Fleshy Pods"
+    Destroy Fleshy Pods using ranged abilities to avoid explosion damage and Poison debuff.
 
 ## Bosses
 
 ### Coeurl O'Nine Tails
 
 - Applies Poison debuff to nearby players
-    - ![](/assets/icons/role-healer.png) Use Esuna to remove Poison debuff from party members
-- Kill adds
+    - Ranged players stay away from boss
+- Kill adds, applies Slow debuff to nearby players
+- ![](/assets/icons/role-healer.png) Use Esuna to remove Poison/Slow debuff from party members
 
 ### Graffias
 
 - **Silkscreen** — dodge frontal column AoE
-- ![](/assets/icons/role-dps.png) **Graffias' Tail** — destroy when it is exposed
+- **Sticky Web** — drops a Fleshy Pod ontop of a random player
+    - Move away from Fleshy Pods
+    - Destroy using ranged abilitie to avoid explosion damage and Poison debuff
+- ![](/assets/icons/role-dps.png) Destroy **Graffias's Tail** when it is exposed
+
+![](/assets/images/duties/the-thousand-maws-of-toto-rak-graffiass-tail.png)
+
 - Move out of green poison puddles
 - Kill adds

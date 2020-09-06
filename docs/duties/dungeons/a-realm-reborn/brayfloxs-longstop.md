@@ -8,28 +8,33 @@
 2. Access Brayflox's Runstop: 0/1
 3. Access Mudstop Watergush: 0/1
 4. Arrive in the heart of the Longstop: 0/1
+5. Defeat Aiatar: 0/1
 
 ## Bosses
 
 ### Great Yellow Pelican
 
+- ![](/assets/icons/role-dps.png) Kill adds
 - **Numbing Breath** — dodge frontal cone AoE
 - ![](/assets/icons/role-healer.png) Use Esuna to remove Poison debuff from tank
-- Kill adds
 
 ### Inferno Drake
 
 - ![](/assets/icons/role-tank.png) **Burning Cyclone** — frontal breath  (not telegraphed)
 - Kill Tempest Biast chasing Brayflox
-- Brayflox will periodically attack the boss and steal aggro from the tank
+    - Brayflox will periodically steal aggro from the tank
+    - Beware of frontal breath
 
 ### Hellbender
 
-- ![](/assets/icons/role-tank.png) **Stagnant Spray** — dodge frontal cone AoE
-- **Queer Bubble** — destroy bubble to free party member
-- **Eerie Light** — point blank AoE on boss
+- Stay spread to avoid splash damage from spit on random players
+- **Stagnant Spray** — dodge frontal cone AoE
+- **Peculiar Light** — point blank AoE on boss
+    - ![](/assets/icons/role-healer.png) Use Esuna to remove Magic Vulnerability Up debuff on players hit by AoE
+- ![](/assets/icons/role-dps.png) **Queer Bubble** — destroy bubble to free party member
 - At low health, boss will be eaten by a dragon
     - **Dragon Breath** — dodge frontal column AoE
+        - ![](/assets/icons/role-healer.png) Use Esuna to remove Poison debuff on players hit by AoE
 
 ### Deep Jungle Coeurl (Optional)
 
@@ -39,5 +44,6 @@
 
 - **Dragon Breath** — dodge frontal column AoE
 - **Toxic Vomit** — spits poison puddle on random player
-- ![](/assets/icons/role-tank.png) Move boss out of poison puddles, or else boss will heal
+    - Stay spread to avoid excessive Poison debuffs
+    - ![](/assets/icons/role-tank.png) Move boss out of poison puddles, or else boss will heal
 - ![](/assets/icons/role-healer.png) Use Esuna to remove Poison debuff from party members

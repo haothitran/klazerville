@@ -13,10 +13,10 @@
 
 ### Void Soulcounter
 
-- Spawns at each Cultist Orb platform throughout the dungeon
+- Spawns at each **Cultist Orb** platform throughout the dungeon
 - **Condemnation** — dodge frontal cone AoE
 
 ### Galvanth the Dominator
 
-- ![](/assets/icons/role-dps.png) Kill three waves of adds — Imps > Skeleton/Miteling
+- ![](/assets/icons/role-dps.png) Kill adds — Imps > Skeleton/Miteling
 - **Mind Blast** — point blank AoE on boss

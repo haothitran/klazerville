@@ -10,18 +10,22 @@
 4. Clear the Sunken Antechamber: 0/1
 5. Defeat the chimera: 0/1
 
+Interact with Shifting Sands to progress through to next area of dungeon.
+
 ## Bosses
 
 ### Myrmidon Princess
 
 - **Mandible Bite** — dodge frontal cone AoE
-- ![](/assets/icons/role-healer.png) **Silence** — use Esuna to remove Silence debuff from party members
+- **Silence** — applies Silence debuff on random player (nterruptible)
+    - ![](/assets/icons/role-healer.png) Use Esuna to remove Silence debuff from party members
 - ![](/assets/icons/role-dps.png) Kill adds — Marshal (heals boss) > Guard > Soldier
 
 ### Giant Tunnel Worm
 
-- ![](/assets/icons/role-healer.png) **Sludge** — use Esuna to remove dot from party members
 - Avoid sand eruptions as the boss tunnels around the room underground
+- **Sludge** — applies damage over time debuff on random player (interruptible)
+    - ![](/assets/icons/role-healer.png) Use Esuna to remove dot debuff from party members
 - **Bottomless Desert** — run out of quicksand
 
 ### Chimera
@@ -30,5 +34,6 @@
 - *The dragon's eyes now burn violet/blue.*
     - **Dragon's Voice** (violet) — move close to boss
     - **Ram's Voice** (blue) — move away from boss
-- **Cacophony** — move away from pulsing purple orbs
+    - ![](/assets/icons/role-healer.png) Use Esuna to remove dot/Paralysis debuff from party members
+- **Cacophony** — targetted player run away from purple orb
 - **Ram's Keeper** — dodge circular AoE on random player

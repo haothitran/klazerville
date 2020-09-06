@@ -6,29 +6,33 @@
 
 1. Clear shaft B4 of rubble: 0/1
 2. Clear shaft E1 of rubble: 0/1
-3. Arrive in Shaft E2: 0/1
+3. Arrive in shaft E2: 0/1
 4. Defeat Gyges the Great: 0/1
 
-!!! info "Pick up Firesands"
-    Pick up Firesands throughout dungeon to clear blocked tunnels with explosives.
+!!! info "Firesands"
+    Pick up Firesands throughout dungeon to clear blocked tunnels with blasting devices.
 
 ## Bosses
 
-### Kottos the Gigas
+### Kottos
 
-- ![](/assets/icons/role-tank.png) Frontal melee cleave
-- Kill adds
+- Kill waves of adds to spawn boss
+- ![](/assets/icons/role-tank.png) Frontal melee cleave, do not cleave party members
 
 ### Ichorous Ire
 
-- Cannot DPS boss like usual boss encounters
+Cannot DPS boss like usual boss encounters.
+
 - Interact with **Improved Blasting Device** to spawn Blasting Cap adds
     - Do not kill Blasting Cap, let it explode on its own
     - ![](/assets/icons/role-tank.png) Position boss in Blasting Cap's explosion AoE
     - Repeat until boss can be killed
+
+![](/assets/images/duties/copperbell-mines-ichorous-ire-blasting-cap.png)
+
 - ![](/assets/icons/role-dps.png) Kill Spriggan adds before they destroy Blasting Caps
 
 ### Gyges the Great
 
+- Burn boss, ignore Stone Servant adds
 - **Colossal Slam** — dodge frontal cone AoE
-- Kill adds

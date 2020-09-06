@@ -11,20 +11,38 @@
 5. Defeat Denn the Orcatoothed: 0/1
 
 !!! tip "Bloody Memo"
-    Early in the dungeon locate a Bloody Memo in a side room mentioning a colour. In order to spawn the first boss, players must interact with the right colour Coral Formation (red/blue/green). If the wrong colour is picked, you will fight more trash mobs. This colour is randomly generated every time you enter the dungeon.
+    Early in the dungeon locate a Bloody Memo in a side alcove mentioning a colour.
+
+    ![](/assets/images/duties/sastasha-bloody-memo.png)
+
+    Players must interact with the right colour Coral Formation (red/blue/green) in order to spawn the first boss.
+
+    If the wrong colour is picked, you will fight more trash mobs.
+
+    This colour is randomly generated every time you enter the dungeon.
 
 ## Boss
 
 ### Chopper
 
+Interact with Coral Formations to spawn either trash or reveal an Inconspicuous Switch to spawn boss.
+
 - **Charged Whisker** — point blank AoE on boss
+- ![](/assets/icons/role-healer.png) Use Esuna to remove Paralysis debuff on players hit by AoE
 
 ### Captain Madison
 
 - Kill adds
+- ![](/assets/icons/role-healer.png) Use Esuna to remove Accuracy Down debuff on tank
 - At low health, boss will flee the fight
 
 ### Denn the Orcatoothed
 
-- Interact with bubbling grates in corners of arena to prevent an add from spawning
 - **Hydroball** — dodge frontal cone AoE
+- Note location of **Unnatural Ripples** near corners of arena
+
+![](/assets/images/duties/sastasha-denn-unnatural-ripples-location.png)
+
+- Interact with bubbling **Unnatural Ripples** to prevent adds from spawning
+
+![](/assets/images/duties/sastasha-denn-unnatural-ripples-bubbling.png)

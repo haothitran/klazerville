@@ -11,28 +11,32 @@
 3. Find the bloody parchment: 0/1
 4. Defeat Lady Amandine: 0/1
 
-!!! tip
-    After defeating the Manor Jester and Manor Steward in the basement, use your Return ability to teleport to the entrance of the dungeon to quickly go upstairs to progress through the rest of the dungeon. If you do not have Return available, either suicide using trash mobs to respawn at beginning or run back on foot.
-
 ## Bosses
 
 ### Manor Claviger
 
 - ![](/assets/icons/role-tank.png) Frontal 180-degree cleave
-- **Void Fire II** — dodge circular AoE on random player
-- **Dark Mist** — point blank AoE on boss
+- **Void Fire II** — dodge circular AoE on random player (interruptible)
+- **Dark Mist** — point blank AoE on boss (stunnable)
 
 ### Manor Jester and Manor Steward
 
-- **Soul Drain** — point blank AoE on Manor Steward (interruptible)
+- **Soul Drain** — point blank AoE on Manor Steward (stunnable)
 
-!!! tip
-    Use Return after boss is defeated.
+??? tip "Use Return ability after boss is defeated"
+    After defeating the Manor Jester and Manor Steward in the basement, use your Return ability to teleport to the entrance of the dungeon. This is the fastest method to get upstairs to progress through the rest of the dungeon.
+
+    ![](/assets/images/duties/haukke-manor-return.png)
+
+    If you do not have Return available (ie. it is on cooldown), either suicide using nearby trash mobs to respawn at the entrance or run back upstairs on foot.
+
+    This ability is found under menu Character > Actions & Traits > General.
 
 ### Lady Amandine
 
-- ![](/assets/icons/role-healer.png) Interact with Void Lamps in corners of room to stop pulsing party damage
-- ![](/assets/icons/role-dps.png) Alternatively, ignore mechanics and just burn boss
-- Interrupt casts when possible (Void Fire III, Void Thunder III)
-- **Dark Mist** — point blank AoE on boss
+- **Void Lamps**
+    - ![](/assets/icons/role-healer.png) Interact with Lamps in corners of room to stop pulsing party damage
+    - ![](/assets/icons/role-dps.png) Alternatively, ignore Lamps and burn boss
+- Interrupt casts when possible (**Void Fire III**, **Void Thunder III**)
+- **Dark Mist** — point blank AoE on boss (stunnable)
 - Kill adds, dodge AoEs

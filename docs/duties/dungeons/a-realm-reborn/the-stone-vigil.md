@@ -13,16 +13,22 @@
 ### Chudo-Yudo
 
 - **Lion's Breath** — dodge frontal breath AoE (not telegraphed)
-- **Swinge** — dodge large frontal cone AoE across arena
+    - ![](/assets/icons/role-healer.png) Use Esuna to remove Burn (dot) debuff
+- **Swinge** — dodge frontal cleave AoE (not telegraphed)
 
 ### Koshchei
 
-- Interact with Bertha cannons to remove flying dragon outside balcony from encounter
-- ![](/assets/icons/role-tank.png) Frontal cone breaths
-- ![](/assets/icons/role-tank.png) ![](/assets/icons/role-healer.png) **Spiked Tail** — tank damage, use Esuna to remove Poison debuff from tank
+- ![](/assets/icons/role-tank.png) Frontal breaths, face boss away from Bertha cannons
+- Interact with Bertha cannons to remove flying dragon from balcony
+    - ![](/assets/icons/role-healer.png) Party damage while flying dragon is present
 - Avoid tornados around room
+- ![](/assets/icons/role-healer.png) Use Esuna to remove Poison/Windburn (dot) debuff
 
 ### Isgebind
 
-- **Sheet of Ice** — dodge circular AoE on random player, leaves persistent ice patch
 - **Cauterize** — dodge half-arena AoE after boss flies into air
+    - Second time boss does this, players will drop Sheets of Ice before AoE occurs
+    - If possible, bait these ice patches to edges of arena to keep middle clear
+    - **Sheet of Ice** — drops ice patches on players
+- ![](/assets/icons/role-healer.png) **Rime Wreath** — party damage
+- ![](/assets/icons/role-healer.png) Use Esuna to remove Frostbite/Paralysis debuff

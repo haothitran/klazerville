@@ -5,33 +5,38 @@
 ## Objectives
 
 1. Clear the Hall of the Cesti: 0/1
-2. Activate the chain winch: 0/5
+2. Activate the chain winches: 0/5
 3. Clear the Hall of the Secutores: 0/1
 4. Defeat Tangata: 0/1
+
+!!! tip "First boss"
+    First boss is to the left at the first fork on the map.
 
 ## Bosses
 
 ### Firemane
 
-- ![](/assets/icons/role-dps.png) Kill adds coming from multiple spawn points around room
-- ![](/assets/icons/role-healer.png) If adds reach center of room = party damage
+- ![](/assets/icons/role-dps.png) Kill adds before they reach fire pit
+- ![](/assets/icons/role-healer.png) If adds reach fire pit = party damage
 
 ### Thunderclap Guivre
 
-- ![](/assets/icons/role-tank.png) Position boss at the base of ramp
+- ![](/assets/icons/role-tank.png) Position boss at the base of entrance ramp
+- **Levinshower** — dodge frontal cone AoE
 - Do not stand in electrified water
-- ![](/assets/icons/role-dps.png) Kill adds to remove Invulnerability buff on boss
-- **Electrify** — dodge circular AoEs
+    - ![](/assets/icons/role-dps.png) Kill adds to remove Invulnerability buff on boss
+    - Dodge circular AoEs
 
 ### Pit Peiste (Optional)
 
-- Spawns when a player interacts with a Treasure Coffer inconspicuously positioned in the middle of a circular ring with a red border
+Spawns when a player nears a suspiciously positioned Treasure Coffer.
+
 - **Body Slam** — point blank AoE on boss
 
 ### Tangata
 
-- ![](/assets/icons/role-dps.png) Kill Damantus adds before they reach boss
-- ![](/assets/icons/role-dps.png) Kill Fire Sprites to remove Invulnerability buff on boss
+- ![](/assets/icons/role-dps.png) Kill Fire Sprites > Damantus adds
+    - Fire Sprites = removes Invulnerability buff on boss
+    - ![](/assets/icons/role-healer.png) Damantus = party damage if reaches boss
 - **Double Smash** — dodge frontal cone AoE
 - **Firewater** — dodge circular AoE on random player
-- ![](/assets/icons/role-tank.png) Knockback (no progress bar, not telegraphed)
